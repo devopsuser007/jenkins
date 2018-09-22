@@ -1,0 +1,10 @@
+Activating service name='org.a11y.Bus'
+Failed to activate service 'org.a11y.Bus': timed out
+Activating service name='com.canonical.Unity.Scope.Home'
+Successfully activated service 'com.canonical.Unity.Scope.Home'
+Activating service name='com.canonical.Unity.Scope.Applications'
+Activating service name='com.canonical.Unity.Scope.LocalFiles'
+Successfully activated service 'com.canonical.Unity.Scope.LocalFiles'
+Successfully activated service 'com.canonical.Unity.Scope.Applications'
+Activating service name='org.a11y.Bus'
+Failed to activate service 'org.a11y.Bus': timed out

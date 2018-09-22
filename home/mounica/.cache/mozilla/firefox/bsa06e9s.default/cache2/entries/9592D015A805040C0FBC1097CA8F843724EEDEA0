@@ -1,0 +1,535 @@
+//
+//
+//
+
+
+
+ChannelTracker.prototype.setupAppendTracking = function(){
+/**/
+  this.appendTrackingHosts = new Array("cmrc.logmeininc.com", "secure.gotoassist.com");
+};
+
+ChannelTracker.prototype.UUID = '38e8de4c-f335-4097-aafd-cf841cfafd3a';
+
+ChannelTracker.prototype.serverName = "marketing.logmeininc.com";
+ChannelTracker.prototype.contextPath = "";
+
+function ChannelTracker(productId, subdomain) {
+	this.setupAppendTracking();
+	if(this.dntCheck()) return;
+    this.productId = productId;
+    this.subdomain = subdomain;
+    var actualDomain = document.domain;
+    if(actualDomain.indexOf(this.subdomain) < 0) {
+    	this.subdomain = null;
+    }
+    if (this.subdomain == null) {
+        try {
+            var url = '' + window.location;
+            if (url.match(/@/)) {
+                jQuery.url.setUrl(url.replace(/@/g, "%40"));
+            }
+            var results = jQuery.url.attr("host").match(/([A-Za-z0-9\-]*)((\.[A-Za-z\-]{2,3}){1,2}|(\.[A-Za-z]{2,10}))$/);
+            this.subdomain = results != null && results.length > 0 ? results[0] : null;
+        }catch(e){}
+    }
+    this.saveCookiesFromUrl();
+    this.userId = jQuery.cookie('__col_visit');
+    if ( this.userId == null ) {
+    	this.userId = this.UUID;
+        var opts = { path: '/', expires: 365, domain: this.subdomain};
+        jQuery.cookie('__col_visit', this.userId, opts);
+   	}
+}
+
+ChannelTracker.prototype.dntCheck = 
+	function () {
+		return (typeof dnt == "object" && dnt.dntTrue());
+	}
+
+ChannelTracker.prototype.trackChannel =
+    function () {
+		if(this.dntCheck()) return;
+        this.trackVisit();
+        // Work-around for jQuery bug.  The @ sign is not escaped and that causes jQuery.url to not work correctly.
+        var url = '' + window.location;
+        if (url.match(/@/)) {
+            jQuery.url.setUrl(url.replace(/@/g, "%40"));
+        }
+        // End work-around
+        var chnl = jQuery.url.param("c_name");
+
+        if (typeof chnl != 'undefined') {
+            var qs = jQuery.url.attr("query");
+            var cookieStr = this.createMktCookieStr(qs);
+            this.writeMktCookie(cookieStr);
+            this.writeTrackCookie("track","1");
+        } else {
+            var tracked=this.readColCookie("track");
+            if (typeof tracked != 'string') {
+                var cookieStr = this.createMktCookieStr("c_name=direct");
+                var va = this.cookieValueToArray();
+                this.writeMktCookie(cookieStr);
+                this.writeTrackCookie("track","1");
+
+            }
+        }
+        var theChannelTracker = this;
+        jQuery(document).ready(function() {
+            theChannelTracker.appendJumpParamsToForms();
+            theChannelTracker.appendJumpParamsToLinks();
+        });
+    }
+
+ChannelTracker.prototype.appendToChannel =
+    function (attributes) {
+		if(this.dntCheck()) return;
+        var firstTracked = this.readColCookie("first_track");
+        if (typeof attributes == 'object') {
+            var va = this.cookieValueToArray();
+            jQuery.each(attributes, function(key, value) {
+		if ("true" === firstTracked) {
+			va['FIS_'+key] = value;
+		}
+                va['LST_'+key] = value;
+            });
+            var cookieStr = '';
+            jQuery.each(va, function(key, val) {
+                if (key.indexOf('FIS_') == 0 || key.indexOf('LST_') == 0) {
+                    var v = key + '=' + val;
+                    cookieStr += cookieStr == '' ? v : '&' + v;
+                }
+            });
+
+            this.writeMktCookie(cookieStr);
+            this.appendJumpParamsToForms();
+            this.appendJumpParamsToLinks();
+        }
+    }
+
+ChannelTracker.prototype.setChannel =
+    function (channel) {
+		if(this.dntCheck()) return;
+        var va = this.cookieValueToArray();
+        var cookieStr = '';
+        jQuery.each(va, function(key, val) {
+            if (key.indexOf('FIS_') == 0) {
+                var v = key + '=' + val;
+                cookieStr += cookieStr == '' ? v : '&' + v;
+            }
+        });
+        if (typeof channel == 'object') {
+            jQuery.each(channel, function(key, value) {
+                var v = key + '=' + value;
+                cookieStr += cookieStr == '' ? 'LST_' + v : '&LST_' + v;
+            });
+        } else {
+            cookieStr = cookieStr + '&LST_name=' + channel;
+        }
+        this.writeMktCookie(cookieStr);
+        this.appendJumpParamsToForms();
+        this.appendJumpParamsToLinks();
+    }
+
+ChannelTracker.prototype.getPort = function() {
+    if (!this.port) {
+        var foundPort = null;
+        jQuery('script').each(function(i, item) {
+            if (item.src.indexOf("/marketing/api/2009/api.js") > 1 && jQuery.url.setUrl(item.src).attr("port") != null) {
+                foundPort = ":" + jQuery.url.setUrl(item.src).attr("port");
+                return;
+            }
+        });
+        this.port = foundPort;
+    }
+    return this.port || "";
+}
+
+ChannelTracker.prototype.trackChannelEvent =
+    function (userKey, email, eventId, allowDuplicates, registrantInfo) {
+		if(this.dntCheck()) return;
+        var cookieStr=this.readColCookie("mkt");
+        if (typeof cookieStr == 'string') {
+            var userId = jQuery.cookie('__col_visit');
+            var firstSession = (this.readColCookie("first_track") == "true");
+            var registrantText = "";
+            if (registrantInfo != null) {
+                registrantText = (registrantInfo.firstName ? "&firstName=" + registrantInfo.firstName : "")
+                                  + (registrantInfo.lastName ? "&lastName=" + registrantInfo.lastName : "")
+                                  + (registrantInfo.phoneNumber ? "&phoneNumber=" + registrantInfo.phoneNumber : "")
+                                  + (registrantInfo.catalogNumber ? "&catalogNumber=" + registrantInfo.catalogNumber : "")
+                                  + (registrantInfo.planNumber ? "&planNumber=" + registrantInfo.planNumber : "")
+                                  + (registrantInfo.regionCode ? "&regionCode=" + registrantInfo.regionCode : "")
+                                  + (registrantInfo.locale ? "&locale=" + registrantInfo.locale : "");
+            }
+            var url = location.protocol + "//" + this.serverName + this.getPort() + this.contextPath
+                      + "/api/trackChannel.json"
+                      + "?email=" + email
+                      + "&userKey=" + userKey
+                      + "&event=" + this.encode(eventId)
+                      + "&product=" + this.encode(this.productId)
+                      + "&channelparams=" + this.encode(cookieStr)
+                      + "&userid=" + userId
+                      + "&firstsession=" + firstSession
+                      + registrantText
+                      + "&duplicate=" + (allowDuplicates == null ? false : allowDuplicates)
+                      + "&callback=?";
+            jQuery.getJSON(url,
+                function(data) {
+                    //ignored
+                });
+        }
+    }
+
+ChannelTracker.prototype.trackExperiment =
+    function (userKey, experiment) {
+		if(this.dntCheck()) return;
+        if (typeof experiment == 'object') {
+            var url = location.protocol + "//" + this.serverName + this.getPort() + this.contextPath
+                      + "/api/track/siteTracking.json?_method=POST&userKey=" + userKey;
+            var p = ['experimentId', 'experimentName', 'variationId', 'variationName'];
+            for (var i=0; i < p.length; i++) {
+                url += '&' + p[i] + '=' + (experiment[p[i]] || '');
+            }
+            jQuery.getJSON(url + '&callback=?', function(data) { });
+        }
+    }        
+
+ChannelTracker.prototype.createMktCookieStr =
+    function (qs) {
+        var va = this.cookieValueToArray();
+        var FIS_name = va['FIS_name'];
+        var cookieStr = '';
+        if (typeof FIS_name == 'undefined') {
+            cookieStr = this.channelParams('FIS_', qs);
+            cookieStr = cookieStr + '&' + this.channelParams('LST_', qs);
+            this.writeTrackCookie("first_track","true");
+        } else {
+            jQuery.each(va, function(key, val) {
+                if (key.indexOf('FIS_') == 0) {
+                    var v = key + '=' + val;
+                    cookieStr += cookieStr == '' ? v : '&' + v;
+                }
+            });
+            cookieStr = cookieStr + '&' + this.channelParams('LST_', qs);
+
+
+        }
+        return cookieStr;
+    }
+
+ChannelTracker.prototype.cookieValueToArray =
+    function () {
+        var cookieStr=this.readColCookie("mkt");
+        return this.queryStringToArray(cookieStr);
+    }
+
+ChannelTracker.prototype.queryStringToArray =
+    function (value) {
+        var a = { };
+        
+        if(value == null || value.length == 0)
+        	return a;
+        
+        if (typeof value == "string") {
+        
+            var kv = value.split('&');
+            jQuery.each(kv, function() {
+            
+                var kva = this.split('=');
+                
+                if(kva.length >= 2) {
+                	kva[0] = kva[0].replace(/"/g, "");
+                	kva[1] = kva[1].replace(/"/g, "");
+                	a[kva[0]] = kva[1];
+                }
+            });
+        }
+        return a;
+    }
+
+ChannelTracker.prototype.channelParams =
+    function (prefix, queryString) {
+        var str = '';
+        var qsa = this.queryStringToArray(queryString);
+        jQuery.each(qsa, function(key, val) {
+           if (key.indexOf("c_") == 0) {
+               var v = prefix + key.substring(2) + '=' + val;
+               str += str == '' ? v : '&' + v;
+           }
+        });
+        return str;
+    }
+
+ChannelTracker.prototype.link =
+    function (url) {
+        window.location = this.createLinkerUrl(url);
+    }
+
+
+ChannelTracker.prototype.linkByPost =
+    function (url, form) {
+        form.action = this.createLinkerUrl(url);
+        form.method = 'POST';
+        form.submit();
+    }
+
+ChannelTracker.prototype.saveCookiesFromUrl =
+    function () {
+		if(this.dntCheck()) return;
+        var cookieStr = jQuery.url.param("__col_mkt_cookies");
+        
+        if (typeof cookieStr != 'undefined') {
+            cookies = decodeURIComponent(cookieStr);
+            var ck = cookies.split(';');
+            
+            if(ck == null) return;
+
+            for(i = 0; i<ck.length; i++) {
+
+				// Instead of spliting on = the split is done on first occurance of =. Because in few cases cookie value can contain =
+				// Example: _col_mkt_GoToMeeting=FIS_Name=aaa
+                ca = ck[i].split(/=(.+)?/);
+                
+                if(ca.length < 2 || (typeof ca[1] == 'undefined'))
+                   continue;
+                    
+                cookieName = jQuery.trim(ca[0]);
+                cookieValue = jQuery.trim(decodeURIComponent(ca[1]));
+                
+                if(cookieName.length > 0 && cookieValue.length > 0) {
+                
+                    if(cookieName.indexOf("__col_track_") == 0)
+                       this.writeTrackCookie("track", cookieValue);
+                    else if (cookieName.indexOf("__col_first_track_") == 0)   
+                       this.writeTrackCookie("first_track", cookieValue);
+            		else
+            		   this.writeCookie(cookieName, cookieValue);
+                }
+            }
+        }
+    }
+    
+ChannelTracker.prototype.readColCookie=
+	function(value){
+		return jQuery.cookie('__col_'+value+'_'+ this.productId);
+    }
+ChannelTracker.prototype.writeTrackCookie =
+    function (name,value) {
+		if(this.dntCheck()) return;
+        var opts = { path: '/' };
+        if (typeof this.subdomain == "string") {
+            opts.domain = this.subdomain;
+        }
+        jQuery.cookie('__col_'+name +'_'+ this.productId, value, opts);
+    }
+
+ChannelTracker.prototype.toggleFirstTrackCookie =
+    function (value) {
+		if(this.dntCheck()) return;
+        var firstTracked = this.readColCookie("first_track");
+        if (typeof firstTracked == 'string') {
+            var opts = { path: '/' };
+            if (typeof this.subdomain == "string") {
+                opts.domain = this.subdomain;
+            }
+            jQuery.cookie('__col_first_track_' + this.productId, value, opts);
+        }
+    }
+
+ChannelTracker.prototype.writeMktCookie =
+    function (value) {
+        this.writeCookie('__col_mkt_' + this.productId, value, this.subdomain);
+    }
+
+ChannelTracker.prototype.writeCookie =
+    function (name, value) {
+        var opts = { path: '/', expires: 365 };
+        if (typeof this.subdomain == "string") {
+            opts.domain = this.subdomain;
+        }
+        jQuery.cookie(name, value, opts);
+    }
+
+ChannelTracker.prototype.encode =
+    function (text) {
+        return encodeURIComponent(encodeURIComponent(text));
+    }
+
+ChannelTracker.prototype.decode =
+    function (text) {
+        return decodeURIComponent(decodeURIComponent(text));
+    }
+
+ChannelTracker.prototype.createLinkerUrl =
+    function (link) {
+        return link + (link.indexOf('?') > 0 ? '&' : '?') + '__col_mkt_cookies=' + this.encode(this.getColCookies());
+    }
+
+ChannelTracker.prototype.appendJumpParamsToForms =
+    function() {
+        var theChannelTracker = this;
+            jQuery('form').each(function(i, theForm){
+                var theAction = jQuery(theForm).attr('action');
+                if (theAction && theAction.indexOf('http') == 0) {
+                    var name = theForm.id != null && theForm.id != '' ? theForm.id : theForm.name;
+                    name = name == null || name == '' ? "hidden" : name;
+                    if (jQuery('#h_' + name, theForm).length != 0) {
+                        jQuery('#h_' + name, theForm)[0].value = escape(theChannelTracker.getColCookies());
+                    } else {
+                        jQuery(theForm).append("<input type='hidden' name='__col_mkt_cookies' value='" + escape(theChannelTracker.getColCookies()) + "' id='h_" + name + "'>");
+                    }
+                }
+            });
+    }
+
+ChannelTracker.prototype.appendJumpParamsToLinks =
+    function() {
+        var theChannelTracker = this;
+        jQuery('a').each(function(i, theLink){
+            if (theLink.href && jQuery(theLink).attr("href").indexOf('http') == 0) {
+                var theHost = jQuery.url.setUrl(theLink.href).attr("host").toLowerCase();
+                var internalColLink = false;
+                jQuery(theChannelTracker.appendTrackingHosts).each(function(i, value){
+                    if (theHost.indexOf(jQuery.trim(value)) >= 0) {
+                        // this is an internal url, append tracking
+                        internalColLink = true;
+                    }
+                });
+                if (internalColLink) {
+                    var colMktCookiesString = "__col_mkt_cookies=" + escape("__col_visit=") + jQuery.cookie('__col_visit') + escape("; ");
+                    var newHref = theLink.href;
+                    if (theLink.href.indexOf(colMktCookiesString) > 0) {
+                        var startIndex = theLink.href.indexOf(colMktCookiesString);
+                        var endIndex = theLink.href.indexOf("&", startIndex);
+                        if ( startIndex > 0 ) {
+                        	if ( endIndex > 0 ) {
+                        		colMktCookiesString = theLink.href.substring(startIndex, endIndex - startIndex);
+                       		} else {
+                       			colMktCookiesString = theLink.href.substring(startIndex, theLink.href.length);
+                       		}
+                       		colMktCookiesString = colMktCookiesString + escape("; ");
+                       	}
+                        if (endIndex < 0) {
+                            var urlStringType1 = theLink.href.substring(0, startIndex) + colMktCookiesString;
+                            var newUrlLength1 = urlStringType1.length;
+                            newHref = urlStringType1 + theChannelTracker.appendCookiesAfterValidation(newUrlLength1);
+                        } else {
+                            var urlStringType2 = urlStringType1 + theLink.href.substring(endIndex, theLink.href.length);
+                            var newUrlLength2 =  urlStringType2.length;
+                            newHref = urlStringType1 + theChannelTracker.appendCookiesAfterValidation(newUrlLength2) + theLink.href.substring(endIndex, theLink.href.length);
+                        }                    
+                    } else {
+                        var urlStringType3 = theLink.href + (theLink.href.indexOf('?') > 0 ? '&' : '?') + colMktCookiesString;
+                        var newUrlLength3 =  urlStringType3.length;
+                        newHref = urlStringType3 + theChannelTracker.appendCookiesAfterValidation(newUrlLength3);
+                    }
+                   // Fix IE bug, when setting href it also sets innerText
+                    var oldText = jQuery(theLink).text();
+                    jQuery(theLink).attr('href', newHref);                    
+                    if (jQuery(theLink).text() != oldText){
+                        jQuery(theLink).text(oldText);
+                    }
+                }
+            }
+        });
+    };
+
+ChannelTracker.prototype.getColCookies =
+    function() {
+        var cookies = "";
+        jQuery(document.cookie.split(";")).each(function(i, item){
+            if (jQuery.trim(item).indexOf("__col") == 0) {
+                cookies += (cookies != "" ? ";" : "") + item;
+            }
+        });
+        return jQuery.trim(cookies);
+    };
+
+ChannelTracker.prototype.appendCookiesAfterValidation =
+    function(urlLen) {
+        var urlLength = urlLen >= 0 ? urlLen : 0;
+        if(urlLength > 2048)
+            return "";
+
+        var productCookie = escape(this.getProductCookies());
+        urlLength += productCookie.length;
+
+        if(urlLength > 2048)
+            return "";
+
+        return productCookie;
+    };
+
+ChannelTracker.prototype.getProductCookies =
+    function() {
+		var cookies = "";
+	    var theChannelTracker = this;
+	    var prodCookieNames = ["__col_first_track_"+this.productId,"__col_mkt_"+this.productId,"__col_track_"+this.productId];
+	    jQuery(document.cookie.split(";")).each(function(i, item){
+	        var cookie = item.split("=");
+	        var cookieName = jQuery.trim(cookie[0]);
+	        if(jQuery.inArray(cookieName,prodCookieNames) >= 0) {
+	            cookies += (cookies != "" ? ";" : "") + item;
+	        }
+	    });
+	    return jQuery.trim(cookies);
+    };
+
+ChannelTracker.prototype.trackVisit =
+    function() {
+        if ("1" == this.readColCookie("track")) {
+            return;
+        }
+        
+        var url = '' + window.location;
+        if (url.match(/@/)) {
+            jQuery.url.setUrl(url.replace(/@/g, "%40"));
+        }
+        // channel params
+        var channelParams;
+        if (typeof jQuery.url.param("c_name") != 'undefined') {
+            channelParams = this.channelParams("", jQuery.url.attr("query"));
+        } else {
+            channelParams = this.channelParams("", "c_name=direct");
+        }
+        var userId = jQuery.cookie('__col_visit');
+        var firstSession = (typeof this.cookieValueToArray()['FIS_name'] == 'undefined');
+        
+        var port = "";
+        var oldUrl = jQuery.url.attr("source");
+        jQuery('script').each(function(i, item){
+            if (item.src.indexOf("/marketing/api/2009/api.js") > 1 && jQuery.url.setUrl(item.src).attr("port") != null){
+                port = ":" + jQuery.url.setUrl(item.src).attr("port");
+            }
+        });
+        jQuery.url.setUrl(oldUrl);
+        url = location.protocol +"//"+ this.serverName + port + this.contextPath
+                      + "/api/visit"
+                      + "/userid/" + userId
+                      + "/domain/" + window.location.hostname
+                      + "/productName/" + this.productId       
+                      + "/channelparams/" + this.encode(channelParams)
+                      + "/firstsession/" + firstSession
+                      + ".json?_method=POST&callback=?";
+        var trackerThis = this;
+        jQuery.getJSON(url,
+            function(data) {
+                this.userId = data.string;
+                var opts = { path: '/', expires: 365, domain: trackerThis.subdomain};
+                jQuery.cookie('__col_visit', this.userId, opts);
+            });
+    }
+
+}gâo)a           [‘›?x
+       ;    :https://marketing.logmeininc.com/marketing/api/2009/api.js strongly-framed 1 security-info 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 request-method GET response-head HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Content-Type: text/javascript;charset=ISO-8859-1
+Content-Language: en-GB
+Date: Thu, 06 Sep 2018 02:13:02 GMT
+ original-response-headers Server: Apache-Coyote/1.1
+Content-Type: text/javascript;charset=ISO-8859-1
+Content-Language: en-GB
+Transfer-Encoding: chunked
+Date: Thu, 06 Sep 2018 02:13:02 GMT
+ uncompressed-len 0   Od

@@ -1,0 +1,11 @@
+TARGETS = uuidd unattended-upgrades irqbalance thermald alsa-utils speech-dispatcher kerneloops ufw whoopsie jenkins bluetooth lightdm cups-browsed cups saned resolvconf plymouth urandom avahi-daemon sendsigs rsyslog umountnfs.sh hwclock.sh networking umountfs umountroot halt reboot
+avahi-daemon: cups-browsed saned
+sendsigs: bluetooth uuidd irqbalance unattended-upgrades thermald alsa-utils speech-dispatcher avahi-daemon plymouth lightdm kerneloops cups-browsed jenkins
+rsyslog: bluetooth irqbalance thermald speech-dispatcher avahi-daemon kerneloops cups-browsed sendsigs cups saned whoopsie jenkins
+umountnfs.sh: bluetooth uuidd irqbalance unattended-upgrades sendsigs thermald alsa-utils speech-dispatcher avahi-daemon plymouth lightdm kerneloops cups-browsed rsyslog jenkins
+hwclock.sh: uuidd kerneloops cups-browsed rsyslog
+networking: umountnfs.sh lightdm kerneloops cups-browsed jenkins
+umountfs: resolvconf networking bluetooth uuidd irqbalance umountnfs.sh urandom unattended-upgrades thermald alsa-utils speech-dispatcher avahi-daemon plymouth lightdm hwclock.sh kerneloops cups-browsed jenkins
+umountroot: umountfs
+halt: umountroot
+reboot: umountroot

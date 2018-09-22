@@ -1,0 +1,1265 @@
+<!Doctype html>
+<html xmlns="https://www.w3.org/1999/xhtml" lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<!-- Favicon-->
+	<link rel="shortcut icon" href="https://careers.electronicsforu.com/wp-content/uploads/2018/06/careers-fav.png" />
+<title>Choosing The Right MBA Program After Computer Science Engineering</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v8.0 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://careers.electronicsforu.com/career-guidance/hr-trends/choosing-mba-computer-science-engineering/" />
+<link rel="next" href="https://careers.electronicsforu.com/career-guidance/hr-trends/choosing-mba-computer-science-engineering/2/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Choosing The Right MBA Program After Computer Science Engineering" />
+<meta property="og:description" content="It is now again the time of the year when there is anxiety in the minds of fresh engineers and their parents alike as to which Master of Business Administration (MBA) post-graduation degree to opt for. This is true for engineers having decided that MBA is what they want to do after engineering. With changing trends, prestigious MBA colleges across" />
+<meta property="og:url" content="https://careers.electronicsforu.com/career-guidance/hr-trends/choosing-mba-computer-science-engineering/" />
+<meta property="og:site_name" content="Electronic Engineering Jobs" />
+<meta property="article:section" content="HR Trends" />
+<meta property="article:published_time" content="2017-05-15T16:13:10+00:00" />
+<meta property="article:modified_time" content="2018-07-17T12:54:25+00:00" />
+<meta property="og:updated_time" content="2018-07-17T12:54:25+00:00" />
+<meta property="og:image" content="https://careers.electronicsforu.com/wp-content/uploads/2018/06/new-1.png" />
+<meta property="og:image:secure_url" content="https://careers.electronicsforu.com/wp-content/uploads/2018/06/new-1.png" />
+<meta property="og:image:width" content="600" />
+<meta property="og:image:height" content="441" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="It is now again the time of the year when there is anxiety in the minds of fresh engineers and their parents alike as to which Master of Business Administration (MBA) post-graduation degree to opt for. This is true for engineers having decided that MBA is what they want to do after engineering. With changing trends, prestigious MBA colleges across" />
+<meta name="twitter:title" content="Choosing The Right MBA Program After Computer Science Engineering" />
+<meta name="twitter:image" content="https://careers.electronicsforu.com/wp-content/uploads/2018/06/new-1.png" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Electronic Engineering Jobs &raquo; Feed" href="https://careers.electronicsforu.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Electronic Engineering Jobs &raquo; Comments Feed" href="https://careers.electronicsforu.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Electronic Engineering Jobs &raquo; Choosing The Right MBA Program After Computer Science Engineering Comments Feed" href="https://careers.electronicsforu.com/career-guidance/hr-trends/choosing-mba-computer-science-engineering/feed/" />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.1.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	var mi_version         = '7.1.0';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-1761532-15';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-1761532-15', 'jobs.electronicsforu.com');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/careers.electronicsforu.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='fep-common-style-css'  href='https://careers.electronicsforu.com/wp-content/plugins/front-end-pm/assets/css/common-style.css?ver=8.4.1' type='text/css' media='all' />
+<style id='fep-common-style-inline-css' type='text/css'>
+#fep-wrapper{background-color:;color:#000000;}#fep-wrapper a:not(.fep-button,.fep-button-active) {color:#000080;} .fep-button{background-color:#F0FCFF;color:#000000;} .fep-button:hover,.fep-button-active{background-color:#D3EEF5;color:#000000;} .fep-odd-even > div:nth-child(odd) {background-color:#F2F7FC;} .fep-odd-even > div:nth-child(even) {background-color:#FAFAFA;} .fep-message .fep-message-title-heading, .fep-per-message .fep-message-title{background-color:#F2F7FC;}
+</style>
+<link rel='stylesheet' id='noo-main-style-css'  href='https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/assets/css/noo.css' type='text/css' media='all' />
+<link rel='stylesheet' id='noo-custom-style-css'  href='https://careers.electronicsforu.com/wp-content/uploads/noo_jobmonster/custom.css' type='text/css' media='all' />
+<link rel='stylesheet' id='noo-style-css'  href='https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='vendor-font-awesome-css-css'  href='https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/framework/vendor/fontawesome/css/font-awesome.min.css?ver=4.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='carousel-css'  href='https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/assets/css/owl.carousel.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='carousel-theme-css'  href='https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/assets/css/owl.theme.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='noo-jquery-confirm-css'  href='https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/assets/vendor/jquery-confirm/jquery-confirm.min.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='noo-google-fonts-body-css'  href='https://fonts.googleapis.com/css?family=Droid+Serif:100,300,400,600,700,900,300italic,400italic,700italic,900italic' type='text/css' media='all' />
+<link rel='stylesheet' id='noo-google-fonts-headings-css'  href='https://fonts.googleapis.com/css?family=Montserrat:100,300,400,600,700,900,300italic,400italic,700italic,900italic' type='text/css' media='all' />
+<link rel='stylesheet' id='noo-DataTables-css'  href='https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/assets/vendor/DataTables/datatables.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='vendor-datetimepicker-css'  href='https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/framework/vendor/datetimepicker/jquery.datetimepicker.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='vendor-chosen-css'  href='https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/framework/vendor/chosen/chosen.css' type='text/css' media='all' />
+<link rel='stylesheet' id='vendor-wysihtml5-css-css'  href='https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/framework/vendor/bootstrap-wysihtml5/bootstrap-wysihtml5.css' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"false","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"","home_url":"https:\/\/careers.electronicsforu.com","track_download_as":"event","internal_label":"int","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://careers.electronicsforu.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.1.0'></script>
+<script type='text/javascript' src='https://careers.electronicsforu.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://careers.electronicsforu.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var noo_readmore = {"lessLink":"Read less","moreLink":"Read more"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/framework/vendor/readmore.min.js'></script>
+<script type='text/javascript' src='https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/assets/vendor/jquery-confirm/jquery-confirm.min.js'></script>
+<script type='text/javascript' src='https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/assets/vendor/notify.js'></script>
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?sensor=false&#038;language=en_US&#038;libraries=places'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var nooLocationPicker = {"enable_auto_complete":"1","componentRestrictions":"","types":"cities","marker_icon":"https:\/\/careers.electronicsforu.com\/wp-content\/themes\/noo-jobmonster\/assets\/images\/map-marker.png"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/framework/vendor/locationpicker.jquery.js'></script>
+<script type='text/javascript' src='https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/framework/vendor/modernizr-2.7.1.min.js'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js'></script>
+<script type='text/javascript' src='https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/assets/vendor/DataTables/datatables.min.js'></script>
+<link rel='https://api.w.org/' href='https://careers.electronicsforu.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://careers.electronicsforu.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://careers.electronicsforu.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.8" />
+<link rel='shortlink' href='https://careers.electronicsforu.com/?p=13453' />
+<link rel="alternate" type="application/json+oembed" href="https://careers.electronicsforu.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcareers.electronicsforu.com%2Fcareer-guidance%2Fhr-trends%2Fchoosing-mba-computer-science-engineering%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://careers.electronicsforu.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcareers.electronicsforu.com%2Fcareer-guidance%2Fhr-trends%2Fchoosing-mba-computer-science-engineering%2F&#038;format=xml" />
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"X0nJn1QolK10Y8", domain:"electronicsforu.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=X0nJn1QolK10Y8" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://careers.electronicsforu.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]-->		<style type="text/css" id="wp-custom-css">
+			.term-freshers header.noo-page-heading {
+    background: url(https://careers.electronicsforu.com/wp-content/uploads/2018/07/Freshers.jpg) !important;
+    background-size: cover !important;
+}
+.category-hr-trends header.noo-page-heading {
+    background: url(https://careers.electronicsforu.com/wp-content/uploads/2018/07/hr-trendz.jpg) !important;
+    background-size: cover !important;
+}
+.category-the-gurus header.noo-page-heading {
+    background: url(https://careers.electronicsforu.com/wp-content/uploads/2018/07/guru.jpg) !important;
+    background-size: cover !important;
+}
+.category-latest-careers-news header.noo-page-heading {
+    background: url(https://careers.electronicsforu.com/wp-content/uploads/2018/07/buzz.jpg) !important;
+    background-size: cover !important;
+}
+body .noo-page-heading .page-heading-info {
+   Xdisplay: none;
+}
+.category-hr-trends .noo-page-heading .page-title, .category-latest-careers-news .noo-page-heading .page-title, .category-the-gurus .noo-page-heading .page-title, .term-freshers .noo-page-heading .page-title{ color:#000 !important;}		</style>
+	<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>    <style id="noo-custom-css" type="text/css">.job-action .btn-primary { display: none;}
+
+.search-top-title {
+    font-size: 16px;
+}
+
+.nav-item-member-profile.login-link{
+ padding-left:0;
+}
+.nav-item-member-profile.register-link a{
+padding:10px !important;
+color:#fff;
+}
+
+.container-boxed{
+   padding-top: 16px;
+}
+.navbar-toggle{
+ padding: 0 3px;
+}
+.navbar-brand {
+    float: none;
+}
+.content-featured img {
+    width: initial;
+}
+.noo-recent-news.slider.slider-border .loop-item-wrap {
+    height: 515px;
+}
+.posts-loop .posts-loop-title {
+    margin-bottom: 12px;
+    margin-top: 30px;
+}
+.single .main-content {
+    padding-top: 40px;
+}
+@media (max-width: 767px){
+.single .main-content {
+    padding-top: 0;
+}
+.container-boxed.offset {
+    margin: 24px auto;
+}
+}
+
+@media (max-width: 991px){
+.noo-job-search-wrapper:not(.no-background) .job-advanced-search, .noo-job-map:not(.no-background) .job-advanced-search {
+    top: 5% !important;
+}
+}
+
+.job-date span{
+color: #fff !important;
+}</style>
+  
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+gptarticletopAdSlots = [];
+  googletag.cmd.push(function() {
+	var articletopad = googletag.sizeMapping().addSize([0, 0], []).addSize([684, 0], []).addSize([685, 0], [468, 60]).build();
+	var articletopad1 = googletag.sizeMapping().addSize([0, 0], [234, 30]).addSize([684, 0], [234, 30]).addSize([685, 0], []).build();
+
+	gptarticletopAdSlots[0] = googletag.defineSlot('/3416456/jobselectronicsforutop', [[468, 60], []], 'div-gpt-ad-1528261827692-0').defineSizeMapping(articletopad).addService(googletag.pubads());
+	gptarticletopAdSlots[1] = googletag.defineSlot('/3416456/jobselectronicsforutop2', [[234, 30], []], 'div-gpt-ad-1533631454095-0').defineSizeMapping(articletopad1).addService(googletag.pubads());
+	googletag.pubads().enableSingleRequest();
+	
+    googletag.enableServices();
+  });
+</script>
+<script>
+var gptarticlemidAdSlots = [];
+  googletag.cmd.push(function() {
+	var articlemiddlead = googletag.sizeMapping().addSize([0, 0], []).addSize([684, 0], []).addSize([685, 0], [468, 60]).build();
+	var articlemiddlead1 = googletag.sizeMapping().addSize([0, 0], [234, 30]).addSize([684, 0], [234, 30]).addSize([685, 0], []).build();
+
+    gptarticlemidAdSlots[0] = googletag.defineSlot('/3416456/jobselectronicsforutopadbox', [[468, 60], []], 'div-gpt-ad-1528262108083-0').defineSizeMapping(articlemiddlead).addService(googletag.pubads());
+	gptarticlemidAdSlots[1] = googletag.defineSlot('/3416456/jobselectronicsforutopadbox2', [[234, 30], []], 'div-gpt-ad-1533632259337-0').defineSizeMapping(articlemiddlead1).addService(googletag.pubads());
+	googletag.pubads().enableSingleRequest();
+	
+    googletag.enableServices(); 
+  });
+</script>
+<script>
+gptarticlebotAdSlots = [];
+  googletag.cmd.push(function() {
+	var articlebotad = googletag.sizeMapping().addSize([0, 0], []).addSize([684, 0], []).addSize([685, 0], [468, 60]).build();
+	var articlebotad1 = googletag.sizeMapping().addSize([0, 0], [234, 30]).addSize([684, 0], [234, 30]).addSize([685, 0], []).build();
+
+	gptarticlebotAdSlots[0] = googletag.defineSlot('/3416456/jobselectronicsforuboxadtop', [[468, 60], []], 'div-gpt-ad-1528264103377-0').defineSizeMapping(articlebotad).addService(googletag.pubads());
+	gptarticlebotAdSlots[1] = googletag.defineSlot('/3416456/jobselectronicsforuboxadtop2', [[234, 30], []], 'div-gpt-ad-1533632546367-0').defineSizeMapping(articlebotad1).addService(googletag.pubads());
+
+	googletag.pubads().enableSingleRequest();
+	
+    googletag.enableServices();
+  });
+</script>
+<script>
+var gptelectronicsforuarticleadAdSlots = [];
+  googletag.cmd.push(function() {
+	var mappingelectronicsforuarticlead = googletag.sizeMapping().addSize([0, 0], []).addSize([769, 0], []).addSize([1025, 0], [728, 90]).build();
+	var mappingelectronicsforuarticlead1 = googletag.sizeMapping().addSize([0, 0], []).addSize([684, 0], []).addSize([768, 0], [468, 60]).addSize([1024, 0], [468, 60]).addSize([1025, 0], []).build();
+	var mappingelectronicsforuarticlead2 = googletag.sizeMapping().addSize([0, 0], [234, 30]).addSize([684, 0], [234, 30]).addSize([685, 0], []).build();
+
+	gptelectronicsforuarticleadAdSlots[0] = googletag.defineSlot('/3416456/career.electronicsforuarticlead2',  [[728, 90], [0, 0]], 'div-gpt-ad-1533637627584-0').defineSizeMapping(mappingelectronicsforuarticlead).addService(googletag.pubads());
+    gptelectronicsforuarticleadAdSlots[1] = googletag.defineSlot('/3416456/career.electronicsforuarticlead3', [[468, 60], []], 'div-gpt-ad-1533640893235-0').defineSizeMapping(mappingelectronicsforuarticlead1).addService(googletag.pubads());
+	gptelectronicsforuarticleadAdSlots[2] = googletag.defineSlot('/3416456/career.electronicsforuarticlead4', [[234, 30], []], 'div-gpt-ad-1533641990991-0').defineSizeMapping(mappingelectronicsforuarticlead2).addService(googletag.pubads());  
+	googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+<!--[if lt IE 9]>
+<script src="https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/framework/vendor/respond.min.js"></script>
+<![endif]-->
+
+<meta http-equiv="refresh" content="1200">
+</head>
+
+<body class="post-template-default single single-post postid-13453 single-format-standard  page-right-sidebar full-width-layout wpb-js-composer js-comp-ver-5.4.7 vc_responsive">
+	<div class="site"  >
+			<header class="noo-header header-1" id="noo-header" >
+				<div class="navbar-wrapper">
+	<div class="navbar navbar-default  navbar-static-top" role="navigation">
+		<div class="container-boxed max">
+			<div class="navbar-header">
+								<a class="navbar-toggle collapsed" data-toggle="collapse" data-target=".noo-navbar-collapse">
+					<span class="sr-only">Navigation</span>
+					<i class="fa fa-bars"></i>
+				</a>
+									<a class="navbar-toggle member-navbar-toggle collapsed" data-toggle="collapse" data-target=".noo-user-navbar-collapse">
+						<i class="fa fa-user"></i>
+					</a>
+								<a href="https://careers.electronicsforu.com/" class="navbar-brand" title="Electronics Engineer Recruitment">
+
+				<img class="noo-logo-img noo-logo-normal" src="https://careers.electronicsforu.com/wp-content/uploads/2018/06/careers-electronicsforu-logo.png" alt="Electronics Engineer Recruitment">				<img class="noo-logo-mobile-img noo-logo-normal" src="https://careers.electronicsforu.com/wp-content/uploads/2018/06/careers-electronicsforu-logo.png" alt="Electronics Engineer Recruitment">				<img class="noo-sticky-logo-img" src="https://careers.electronicsforu.com/wp-content/uploads/2018/06/careers-electronicsforu-logo.png" alt="Electronics Engineer Recruitment">
+				</a>
+		
+			</div> <!-- / .nav-header -->
+							<nav class="collapse navbar-collapse noo-user-navbar-collapse">
+					<ul class="navbar-nav sf-menu">
+							<li class="menu-item" >
+		<a href="https://careers.electronicsforu.com/member/?action=login"><i class="fa fa-sign-in"></i>&nbsp;Login</a>
+	</li>
+				<li class="menu-item" >
+			<a href="https://careers.electronicsforu.com/member/?action=login&mode=register"><i class="fa fa-key"></i> Register</a>
+		</li>
+								</ul>
+				</nav>
+						<nav class="collapse navbar-collapse noo-navbar-collapse">
+	        <ul id="menu-primary-menu" class="navbar-nav sf-menu"><li id="menu-item-819" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-819 align-left"><a href="https://careers.electronicsforu.com/">Home</a></li>
+<li id="menu-item-13457" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-13457 align-left"><a href="https://careers.electronicsforu.com/jobs-3/">Hot Jobs</a>
+<ul class="sub-menu">
+	<li id="menu-item-7507" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7507 fly-right"><a href="http://careers.electronicsforu.com/job-type/freshers/">Freshers</a></li>
+	<li id="menu-item-7510" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7510 fly-right"><a href="http://careers.electronicsforu.com/job-category/government/">Government</a></li>
+	<li id="menu-item-837" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-837 fly-right"><a href="https://careers.electronicsforu.com/home-map/">Jobs  by Locations</a></li>
+	<li id="menu-item-836" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-836 fly-right"><a href="https://careers.electronicsforu.com/all-companies/">Jobs by Companies</a></li>
+</ul>
+</li>
+<li id="menu-item-13458" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-has-children menu-item-13458 align-left"><a href="https://careers.electronicsforu.com/category/career-guidance/">Career Guidance</a>
+<ul class="sub-menu">
+	<li id="menu-item-14562" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-14562 fly-right"><a href="https://careers.electronicsforu.com/category/career-guidance/hr-trends/">HR Trends</a></li>
+	<li id="menu-item-14618" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14618 align-left"><a href="https://careers.electronicsforu.com/category/career-guidance/the-gurus/">The Gurus</a></li>
+</ul>
+</li>
+<li id="menu-item-13460" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13460 align-left"><a href="https://careers.electronicsforu.com/category/latest-careers-news/">Buzz</a></li>
+<li id="menu-item-12037" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12037 align-left"><a href="https://careers.electronicsforu.com/contact-us/">Contact Us</a></li>
+<li id="nav-menu-item-post-btn" class="menu-item-post-btn"><a href="https://careers.electronicsforu.com/post-a-job/#jform">Post a Job</a></li>	<li class="menu-item nav-item-member-profile login-link align-center">
+		<a href="https://careers.electronicsforu.com/member/?action=login" class="member-links member-login-link"><i
+				class="fa fa-sign-in"></i>&nbsp;Login</a>
+			</li>
+			<li class="menu-item nav-item-member-profile register-link">
+			<a class="member-links member-register-link" href="https://careers.electronicsforu.com/member/?action=login&mode=register"><i
+					class="fa fa-key"></i>&nbsp;Register</a>
+					</li>
+	</ul>			</nav> <!-- /.navbar-collapse -->
+		</div> <!-- /.container-fluid -->
+	</div> <!-- / .navbar -->
+</div>
+	</header>
+
+	
+	
+	<header class="noo-page-heading"
+	        style="background: rgba(67, 67, 67, 0.55);">
+							<div class="container-boxed max" style="position: relative; z-index: 1;">
+													<div class="page-heading-info">
+														<h1 class="page-title" >
+									Choosing The Right MBA Program After Computer Science Engineering
+																	</h1>
+																						<p class="content-meta">
+<span>
+<i class="fa fa-pencil"></i> 
+<a href="https://careers.electronicsforu.com/author/devika_b/" title="Posts by devika_b" rel="author">devika_b</a>
+</span>
+<span>
+<time class="entry-date" datetime="2017-05-15T16:13:10+00:00">
+<i class="fa fa-calendar"></i> 
+May 15, 2017
+</time>
+</span>
+<span>
+<i class="fa fa-list-ul"></i> 
+<a href="https://careers.electronicsforu.com/category/career-guidance/hr-trends/" title="View all posts in: &ldquo;HR Trends&rdquo;"> HR Trends</a></span>
+<span><a href="https://careers.electronicsforu.com/career-guidance/hr-trends/choosing-mba-computer-science-engineering/#respond" title="Leave a comment on: &ldquo;Choosing The Right MBA Program After Computer Science Engineering&rdquo;" class="meta-comments"><i class="fa fa-comments"></i>  Leave a Comment</a></span>
+</p>												</div>
+								<div class="page-sub-heading-info">
+									</div>
+			</div><!-- /.container-boxed -->
+												<div class=" parallax" data-parallax="1" data-parallax_no_mobile="1" data-velocity="0.1"
+					     style="background-image: url(http://jobs.electronicsforu.com/wp-content/uploads/2015/09/Jobs-Find-your-career.jpg); background-position: 50% -170px;"></div>
+									</header>
+						<div class="container-boxed max offset main-content">
+	<div class="row">
+		<div class="noo-main col-md-8" role="main">
+							
+<article id="post-13453" class="post-13453 post type-post status-publish format-standard has-post-thumbnail hentry category-hr-trends has-featured has-left-col">
+				<div class="content-left">
+							<div class="author-bio">
+					<div class="author-avatar">
+						<img alt='' src='https://secure.gravatar.com/avatar/341eeda96016632b0d2fe3d6cfd6e031?s=95&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/341eeda96016632b0d2fe3d6cfd6e031?s=190&#038;d=mm&#038;r=g 2x' class='avatar avatar-95 photo' height='95' width='95' />					</div>
+				</div>
+						<div class="content-share">
+<div class="noo-social social-share">
+<span class="noo-social-title">
+Share
+</span>
+<a href="#share" class="noo-share" title="Share on Facebook" onclick="window.open('http://www.facebook.com/sharer.php?u=https%3A%2F%2Fcareers.electronicsforu.com%2Fcareer-guidance%2Fhr-trends%2Fchoosing-mba-computer-science-engineering%2F&amp;t=Choosing+The+Right+MBA+Program+After+Computer+Science+Engineering','popupFacebook','width=650,height=270,resizable=0, toolbar=0, menubar=0, status=0, location=0, scrollbars=0'); return false;">
+<i class="fa fa-facebook"></i>
+</a>
+<a href="#share" class="noo-share" title="Share on Twitter" onclick="window.open('https://twitter.com/intent/tweet?text=Choosing+The+Right+MBA+Program+After+Computer+Science+Engineering&amp;url=https%3A%2F%2Fcareers.electronicsforu.com%2Fcareer-guidance%2Fhr-trends%2Fchoosing-mba-computer-science-engineering%2F','popupTwitter','width=500,height=370,resizable=0, toolbar=0, menubar=0, status=0, location=0, scrollbars=0'); return false;">
+<i class="fa fa-twitter"></i></a>
+<a href="#share" class="noo-share" title="Share on Google+" onclick="window.open('https://plus.google.com/share?url=https%3A%2F%2Fcareers.electronicsforu.com%2Fcareer-guidance%2Fhr-trends%2Fchoosing-mba-computer-science-engineering%2F','popupGooglePlus','width=650,height=226,resizable=0, toolbar=0, menubar=0, status=0, location=0, scrollbars=0'); return false;">
+<i class="fa fa-google-plus"></i></a>
+<a href="#share" class="noo-share" title="Share on Pinterest" onclick="window.open('http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fcareers.electronicsforu.com%2Fcareer-guidance%2Fhr-trends%2Fchoosing-mba-computer-science-engineering%2F&amp;media=https://careers.electronicsforu.com/wp-content/uploads/2018/06/new-1-150x150.png&amp;description=Choosing+The+Right+MBA+Program+After+Computer+Science+Engineering','popupPinterest','width=750,height=265,resizable=0, toolbar=0, menubar=0, status=0, location=0, scrollbars=0'); return false;">
+<i class="fa fa-pinterest"></i></a>
+<a href="#share" class="noo-share" title="Share on LinkedIn" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fcareers.electronicsforu.com%2Fcareer-guidance%2Fhr-trends%2Fchoosing-mba-computer-science-engineering%2F&amp;title=Choosing+The+Right+MBA+Program+After+Computer+Science+Engineering&amp;source=Electronic+Engineering+Jobs','popupLinkedIn','width=610,height=480,resizable=0, toolbar=0, menubar=0, status=0, location=0, scrollbars=0'); return false;">
+<i class="fa fa-linkedin"></i></a>
+</div>
+</div>		</div>
+				<div class="content-wrap">
+									<div class="content-featured">
+					<div class="content-thumb">
+<img width="600" height="441" src="https://careers.electronicsforu.com/wp-content/uploads/2018/06/new-1.png" class="attachment-fullwidth-sidebar size-fullwidth-sidebar wp-post-image" alt="" srcset="https://careers.electronicsforu.com/wp-content/uploads/2018/06/new-1.png 600w, https://careers.electronicsforu.com/wp-content/uploads/2018/06/new-1-300x221.png 300w" sizes="(max-width: 600px) 100vw, 600px" />
+</div>				</div>
+							<div class="content">
+				<!-- /3416456/jobselectronicsforutop -->
+<div style="text-align:center;">
+<div id='div-gpt-ad-1528261827692-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1528261827692-0'); });
+</script>
+</div>
+
+<!-- /3416456/jobselectronicsforutop2 -->
+<div id='div-gpt-ad-1533631454095-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1533631454095-0'); });
+</script>
+</div>
+</div>
+<p>It is now again the time of the year when there is anxiety in the minds of fresh engineers and their parents alike as to which Master of Business Administration (MBA) post-graduation degree to opt for. This is true for engineers having decided that MBA is what they want to do after engineering. With changing trends, prestigious MBA colleges across the country are witnessing domination (with respect to admissions) by computer science engineers.</p>
+<p>With computer science engineers (CSE) choosing MBA post-graduation degree programs being the criteria, we attempt to decode the best MBA specialisation that is recommended to be opted after a graduate engineering degree.</p><div class="4wvpGVww" style="clear:both;float:left;width:100%;margin:0 0 20px 0;"><!-- /3416456/jobselectronicsforutopadbox -->
+<div style="text-align:center;">
+<div id='div-gpt-ad-1528262108083-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1528262108083-0'); });
+</script>
+</div>
+
+<!-- /3416456/jobselectronicsforutopadbox2 -->
+<div id='div-gpt-ad-1533632259337-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1533632259337-0'); });
+</script>
+</div></div></div>
+<h2>An MBA is worth it; don’t fall prey to rumours</h2>
+<p>An alarming trend in recent times has undoubtedly been rumour mills that have gone on record stating that an MBA after engineering is not worth.</p>
+<p>“When the Indian Institute of Management (IIM) centres were established, majority of the intake for MBA courses was from engineering graduates,” states Dr Ali Khwaja, founder and chairman of Bengaluru-based Banjara Academy. Dr Ali has constantly been devoted in guiding students towards the right career path.</p>
+<p>As far as present trends are concerned, expert career counsellors debunk myths about MBA post-graduations having saturated (in terms of number of post-graduates) and state confidently that the number of fresh engineers preferring MBA has in fact tripled.</p>
+<p>Career counsellors also quote a reason here;</p>
+<p>“Most of the engineers choose MBA as their career interest lies in administration and business. Failure to identify interests correctly and parental pressure are the main factors for students to opt for engineering at the graduation level rather than a Bachelors in Business,” states a professor at a reputed management institution in Bengaluru; on the condition of anonymity.</p>
+<p>It is vital that fresh computer science engineers take up an MBA post-graduate program to work in a preferred line of career rather than looking at earning quick bucks.</p>
+<h2>Straight from the horse’s mouth</h2>
+<p>We consulted multiple MBA post-graduates having graduated recently, along with expert career counsellors to check recommendations on the MBA specialisation to select after completing computer science engineering. The unanimous answer, by most of the post-graduates, was an MBA in Information Technology (IT) also known as IT &amp; Systems across some universities.</p>
+<p>“An MBA in IT guarantees enhancement of computer science academic skills; especially programming. Even job designations offered are attractive, so is the overall pay package,” stated Harish Babu, a recent MBA post-graduate who works with a leading technology firm in Bengaluru along with doubling up as a part-time consultant to the Karnataka Government’s IT reachability training programmes.</p>
+<p>Even other recent CSE graduates echoed identical thoughts. However, there were some who preferred a diversion.</p>
+<p>For the uninitiated, job designations offered for fresh MBA IT post-graduates range from principal system architect to project manager.</p>
+<p>Basically, an MBA in IT involves management skills that work in tandem with academic computer science skills mastered during engineering.</p>
+<p>“Today’s IT sector requires complete engineers; not bookworms and unemployable ones. For this, an MBA becomes necessary,” states Dr Radhakrishna HK a Bengaluru-based career counsellor with nearly two decades of experience in guiding students.</p>
+<p>However, armed with just an MBA might still not be sufficient to land that dream IT job. At this point, soft skills come into picture; these are required to be mastered even more intensively than an MBA post-graduation program. Nonetheless, an MBA is an MBA that comes with its own value.</p>
+<p>“It is vital that engineers opt for an MBA specialisation that attracts maximum placement. In case of CS engineers, this could be an MBA in IT or even Marketing,” advise other career counsellors.</p>
+<h2>Multi-National Corporations have a huge demand</h2>
+<p>“Today, it is all about how much it pays; more than the actual job,” adds the anonymous Management Professor. This is a clear reflection that CS engineers should opt for the in-thing in MBAs now.</p>
+<p>“A senior executive role in an MNC in a metro city like Delhi, Bangalore, Mumbai pays well,” adds Harish.</p>
+<p>Even career counsellors agree that MNCs are a hit amongst the fresh MBA post-graduates; especially those graduating from the IIMs. Placement activities are conducted intensively, by MNCs, for students graduating from prestigious institutions across the country.</p>
+<!-- /3416456/jobselectronicsforuboxadtop -->
+<div style="text-align:center;margin-top: 10px;">
+<div id='div-gpt-ad-1528264103377-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1528264103377-0'); });
+</script>
+</div>
+<!-- /3416456/jobselectronicsforuboxadtop2 -->
+<div id='div-gpt-ad-1533632546367-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1533632546367-0'); });
+</script>
+</div></div>				<p>Pages: 1 <a href="https://careers.electronicsforu.com/career-guidance/hr-trends/choosing-mba-computer-science-engineering/2/">2</a></p>																</div>
+			</div>
+	</article> <!-- /#post- -->										<nav class="post-navigation post-navigation-line" role="navigation">
+			<div class="row">
+				<div class="col-sm-6">			
+									<div class="prev-post">
+						<i class="fa fa-long-arrow-left">&nbsp;</i>
+						<a href="https://careers.electronicsforu.com/career-guidance/we-are-working-on-iot-for-preventive-maintenance-jayaraj-esvar/" rel="prev">Previous post</a>					</div>
+								</div>
+				<div class="col-sm-6">			
+									<div class="next-post">
+						<a href="https://careers.electronicsforu.com/career-guidance/we-make-businesses-and-operations-connected-vignesh-iyer/" rel="next">Next post</a>						<i class="fa fa-long-arrow-right">&nbsp;</i>
+					</div>
+								</div>
+			</div>
+		</nav>
+						<div class="page-links">Pages: 1 <a href="https://careers.electronicsforu.com/career-guidance/hr-trends/choosing-mba-computer-science-engineering/2/">2</a></div>									
+<div id="comments" class="comments-area">
+					<div id="respond-wrap">
+				<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"><span>Leave your thoughts</span> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/career-guidance/hr-trends/choosing-mba-computer-science-engineering/#respond" style="display:none;">Click here to cancel the reply</a></small></h3>			<form action="https://careers.electronicsforu.com/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+				<div class="row"><div class="col-sm-12"><p class="comment-form-author"><input id="author" name="author" type="text" placeholder="Name*" class="form-control" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-email"><input id="email" name="email" type="text" placeholder="Email*" class="form-control" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-url"><input id="url" name="url" type="text" placeholder="Website" class="form-control" value="" size="30" /></p></div>
+<div class="col-sm-12"><p class="comment-form-comment"><textarea class="form-control" id="comment" name="comment" cols="40" rows="6" aria-required="true"></textarea></p></div></div>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Submit" /> <input type='hidden' name='comment_post_ID' value='13453' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>			</form>
+			</div><!-- #respond -->
+			</div>
+
+		</div> <!-- /#comments.comments-area -->									</div>
+		
+<div class=" noo-sidebar col-md-4 hidden-print">
+	<div class="noo-sidebar-wrap">
+		<div id="text-25" class="widget widget_text">			<div class="textwidget"><div id='product-component-12b605bb23b' style='margin: auto;'></div>
+<p><script type="text/javascript">
+/*<![CDATA[*/
+
+(function () {
+  var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
+  if (window.ShopifyBuy) {
+    if (window.ShopifyBuy.UI) {
+      ShopifyBuyInit();
+    } else {
+      loadScript();
+    }
+  } else {
+    loadScript();
+  }
+
+  function loadScript() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = scriptURL;
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
+    script.onload = ShopifyBuyInit;
+  }
+
+  function ShopifyBuyInit() {
+    var client = ShopifyBuy.buildClient({
+      domain: 'grab-electronics-for-you.myshopify.com',
+      apiKey: '9376eb61a9f55ce9a4b6ec35750efb8c',
+      appId: '6',
+    });
+
+    ShopifyBuy.UI.onReady(client).then(function (ui) {
+      ui.createComponent('product', {
+        id: [9782453643],
+        variantId: 33403537803,
+        node: document.getElementById('product-component-12b605bb23b'),
+        moneyFormat: 'Rs.%20%7B%7Bamount%7D%7D',
+        options: {
+  "product": {
+    "variantId": "33403537803",
+    "width": "240px",
+    "contents": {
+      "imgWithCarousel": false,
+      "variantTitle": false,
+      "options": false,
+      "description": false,
+      "buttonWithQuantity": false,
+      "quantity": false
+    },
+    "text": {
+      "button": "Get This Book"
+    },
+    "styles": {
+      "product": {
+        "@media (min-width: 601px)": {
+          "max-width": "100%",
+          "margin-left": "0",
+          "margin-bottom": "50px"
+        }
+      },
+      "button": {
+        "background-color": "#e6b908",
+        "font-family": "Droid Sans, sans-serif",
+        "font-size": "18px",
+        "padding-top": "17px",
+        "padding-bottom": "17px",
+        "padding-left": "52px",
+        "padding-right": "52px",
+        ":hover": {
+          "background-color": "#cfa707"
+        },
+        ":focus": {
+          "background-color": "#cfa707"
+        },
+        "font-weight": "bold"
+      },
+      "quantityInput": {
+        "font-size": "18px",
+        "padding-top": "17px",
+        "padding-bottom": "17px"
+      },
+      "compareAt": {
+        "font-size": "12px"
+      }
+    },
+    "googleFonts": [
+      "Droid Sans"
+    ]
+  },
+  "cart": {
+    "contents": {
+      "button": true
+    },
+    "styles": {
+      "button": {
+        "background-color": "#e6b908",
+        "font-family": "Droid Sans, sans-serif",
+        "font-size": "18px",
+        "padding-top": "17px",
+        "padding-bottom": "17px",
+        ":hover": {
+          "background-color": "#cfa707"
+        },
+        ":focus": {
+          "background-color": "#cfa707"
+        },
+        "font-weight": "bold"
+      },
+      "footer": {
+        "background-color": "#ffffff"
+      }
+    },
+    "googleFonts": [
+      "Droid Sans"
+    ]
+  },
+  "modalProduct": {
+    "contents": {
+      "img": false,
+      "imgWithCarousel": true,
+      "variantTitle": false,
+      "buttonWithQuantity": true,
+      "button": false,
+      "quantity": false
+    },
+    "styles": {
+      "product": {
+        "@media (min-width: 601px)": {
+          "max-width": "100%",
+          "margin-left": "0px",
+          "margin-bottom": "0px"
+        }
+      },
+      "button": {
+        "background-color": "#e6b908",
+        "font-family": "Droid Sans, sans-serif",
+        "font-size": "18px",
+        "padding-top": "17px",
+        "padding-bottom": "17px",
+        "padding-left": "52px",
+        "padding-right": "52px",
+        ":hover": {
+          "background-color": "#cfa707"
+        },
+        ":focus": {
+          "background-color": "#cfa707"
+        },
+        "font-weight": "bold"
+      },
+      "quantityInput": {
+        "font-size": "18px",
+        "padding-top": "17px",
+        "padding-bottom": "17px"
+      }
+    },
+    "googleFonts": [
+      "Droid Sans"
+    ]
+  },
+  "toggle": {
+    "styles": {
+      "toggle": {
+        "font-family": "Droid Sans, sans-serif",
+        "background-color": "#e6b908",
+        ":hover": {
+          "background-color": "#cfa707"
+        },
+        ":focus": {
+          "background-color": "#cfa707"
+        },
+        "font-weight": "bold"
+      },
+      "count": {
+        "font-size": "18px",
+        "color": "#ffffff",
+        ":hover": {
+          "color": "#ffffff"
+        }
+      },
+      "iconPath": {
+        "fill": "#ffffff"
+      }
+    },
+    "googleFonts": [
+      "Droid Sans"
+    ]
+  },
+  "productSet": {
+    "styles": {
+      "products": {
+        "@media (min-width: 601px)": {
+          "margin-left": "-20px"
+        }
+      }
+    }
+  }
+}
+      });
+    });
+  }
+})();
+/*]]>*/
+</script></p>
+</div>
+		</div><div id="text-24" class="widget widget_text">			<div class="textwidget"><div class="jobs posts-loop  jobs-shortcode"><div class="posts-loop-title" style="margin-bottom: 0;margin-top:25px;">
+				<h3 class="block-title td-block-title">
+				<span class="td-pulldown-size">DIY Projects</span></h3>
+				</div><div class="td_block_inner" style="padding-top: 15px;"><article class="style-1 hentry"><div class="loop-item-wrap list"><div class="td-block-span12"><div class="td_module_7 td_module_wrap td-animation-stack">
+				<div class="item-featured" style="width:auto;border-radius:0;"><a href="https://electronicsforu.com/electronics-projects/graphical-data-display-arduino-html5" title="Graphical Data Display with Arduino and HTML5" target="_blank">
+				<img width="100" height="auto" class="entry-thumb" src="https://electronicsforu.com/wp-contents/uploads/2018/08/Circuit-diagram-for-graphical-data-display-with-Arduino-and-HTML5.jpg" style="width:100px;height:70px;border:1px solid #f3f3f3;border-radius:0;"/></a></div>
+				<div class="loop-item-content" style="padding-left:20px"><h2 class="loop-item-title"><a rel="bookmark" href="https://electronicsforu.com/electronics-projects/graphical-data-display-arduino-html5" title="Graphical Data Display with Arduino and HTML5" target="_blank">Graphical Data Display with Arduino</a></h3>
+				<div class="td-module-meta-info"><span class="td-post-date"><time class="entry-date updated td-module-date" datetime="29 August 2018 | 11:04 am">29 August 2018</time></span></div></div>
+				</div></div></div></article><article class="style-1 hentry"><div class="loop-item-wrap list"><div class="td-block-span12"><div class="td_module_7 td_module_wrap td-animation-stack">
+				<div class="item-featured" style="width:auto;border-radius:0;"><a href="https://electronicsforu.com/electronics-projects/home-automation-using-bluetooth-esp32" title="Home Automation using Bluetooth of ESP32 with Videos (Hindi &amp; English)" target="_blank">
+				<img width="100" height="auto" class="entry-thumb" src="https://electronicsforu.com/wp-contents/uploads/2018/08/Fig-1-Bluetooth-ESP32.png" style="width:100px;height:70px;border:1px solid #f3f3f3;border-radius:0;"/></a></div>
+				<div class="loop-item-content" style="padding-left:20px"><h2 class="loop-item-title"><a rel="bookmark" href="https://electronicsforu.com/electronics-projects/home-automation-using-bluetooth-esp32" title="Home Automation using Bluetooth of ESP32 with Videos (Hindi &amp; English)" target="_blank">Home Automation using Bluetooth of </a></h3>
+				<div class="td-module-meta-info"><span class="td-post-date"><time class="entry-date updated td-module-date" datetime="28 August 2018 | 10:04 am">28 August 2018</time></span></div></div>
+				</div></div></div></article><article class="style-1 hentry"><div class="loop-item-wrap list"><div class="td-block-span12"><div class="td_module_7 td_module_wrap td-animation-stack">
+				<div class="item-featured" style="width:auto;border-radius:0;"><a href="https://electronicsforu.com/electronics-projects/high-voltage-generator-2" title="High-Voltage Generator for Microcontroller Projects" target="_blank">
+				<img width="100" height="auto" class="entry-thumb" src="https://electronicsforu.com/wp-contents/uploads/2018/08/1-4.jpg" style="width:100px;height:70px;border:1px solid #f3f3f3;border-radius:0;"/></a></div>
+				<div class="loop-item-content" style="padding-left:20px"><h2 class="loop-item-title"><a rel="bookmark" href="https://electronicsforu.com/electronics-projects/high-voltage-generator-2" title="High-Voltage Generator for Microcontroller Projects" target="_blank">High-Voltage Generator for Microcon</a></h3>
+				<div class="td-module-meta-info"><span class="td-post-date"><time class="entry-date updated td-module-date" datetime="25 August 2018 | 12:46 pm">25 August 2018</time></span></div></div>
+				</div></div></div></article><article class="style-1 hentry"><div class="loop-item-wrap list"><div class="td-block-span12"><div class="td_module_7 td_module_wrap td-animation-stack">
+				<div class="item-featured" style="width:auto;border-radius:0;"><a href="https://electronicsforu.com/electronics-projects/multiple-status-indicator-single-rgb-led" title="Multi-Status Indicator Using Single RGB LED" target="_blank">
+				<img width="100" height="auto" class="entry-thumb" src="https://electronicsforu.com/wp-contents/uploads/2018/08/1-2.jpg" style="width:100px;height:70px;border:1px solid #f3f3f3;border-radius:0;"/></a></div>
+				<div class="loop-item-content" style="padding-left:20px"><h2 class="loop-item-title"><a rel="bookmark" href="https://electronicsforu.com/electronics-projects/multiple-status-indicator-single-rgb-led" title="Multi-Status Indicator Using Single RGB LED" target="_blank">Multi-Status Indicator Using Single</a></h3>
+				<div class="td-module-meta-info"><span class="td-post-date"><time class="entry-date updated td-module-date" datetime="19 August 2018 | 5:07 am">19 August 2018</time></span></div></div>
+				</div></div></div></article><article class="style-1 hentry"><div class="loop-item-wrap list"><div class="td-block-span12"><div class="td_module_7 td_module_wrap td-animation-stack">
+				<div class="item-featured" style="width:auto;border-radius:0;"><a href="https://electronicsforu.com/electronics-projects/iot-touch-based-home-automation" title="IoT and Touch-Based Home Automation with Video (Hindi &amp; English)" target="_blank">
+				<img width="100" height="auto" class="entry-thumb" src="https://electronicsforu.com/wp-contents/uploads/2018/08/Fig-14-1.png" style="width:100px;height:70px;border:1px solid #f3f3f3;border-radius:0;"/></a></div>
+				<div class="loop-item-content" style="padding-left:20px"><h2 class="loop-item-title"><a rel="bookmark" href="https://electronicsforu.com/electronics-projects/iot-touch-based-home-automation" title="IoT and Touch-Based Home Automation with Video (Hindi &amp; English)" target="_blank">IoT and Touch-Based Home Automation</a></h3>
+				<div class="td-module-meta-info"><span class="td-post-date"><time class="entry-date updated td-module-date" datetime="17 August 2018 | 10:38 am">17 August 2018</time></span></div></div>
+				</div></div></div></article></div></div>
+</div>
+		</div><div id="text-26" class="widget widget_text">			<div class="textwidget"><p><script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script><br />
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script></p>
+<p><script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('\/3416456\/jobselectronicsforusidebarad2', [[ 200.0 ,  166.0 ], [ 300.0 ,  250.0 ]], 'div-gpt-ad-1528265237984-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script></p>
+<p><!-- /3416456/jobselectronicsforusidebarad2 --></p>
+<div style="display: table; margin: 0 auto;">
+<div id="div-gpt-ad-1528265237984-0"><script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1528265237984-0'); });
+</script></div>
+</div>
+</div>
+		</div><div id="noo_job_category_widget-6" class="widget noo-job-category-widget"><ul>	<li class="cat-item cat-item-156"><a href="https://careers.electronicsforu.com/job-category/aerospace/" >Aerospace</a>
+</li>
+	<li class="cat-item cat-item-96"><a href="https://careers.electronicsforu.com/job-category/automation/" >Automation</a>
+</li>
+	<li class="cat-item cat-item-103"><a href="https://careers.electronicsforu.com/job-category/automobile/" >Automobile</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="https://careers.electronicsforu.com/job-category/embeddedchip-design/" >Embedded/Chip Design</a>
+</li>
+	<li class="cat-item cat-item-32"><a href="https://careers.electronicsforu.com/job-category/engineering/" >Engineering</a>
+</li>
+	<li class="cat-item cat-item-31"><a href="https://careers.electronicsforu.com/job-category/government/" >Government</a>
+</li>
+	<li class="cat-item cat-item-24"><a href="https://careers.electronicsforu.com/job-category/internship/" >Internships</a>
+</li>
+	<li class="cat-item cat-item-100"><a href="https://careers.electronicsforu.com/job-category/manufacturing/" >Manufacturing</a>
+</li>
+	<li class="cat-item cat-item-180"><a href="https://careers.electronicsforu.com/job-category/medical-electronics/" >Medical Electronics</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="https://careers.electronicsforu.com/job-category/miscellaneous/" >Miscellaneous</a>
+</li>
+	<li class="cat-item cat-item-153"><a href="https://careers.electronicsforu.com/job-category/network/" >Network</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="https://careers.electronicsforu.com/job-category/pcb-design/" >PCB Design</a>
+</li>
+	<li class="cat-item cat-item-25"><a href="https://careers.electronicsforu.com/job-category/procurementsupply-chain/" >Procurement/Supply chain</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="https://careers.electronicsforu.com/job-category/rd/" >Research and Development (R&amp;D)</a>
+</li>
+	<li class="cat-item cat-item-141"><a href="https://careers.electronicsforu.com/job-category/robotics/" >Robotics</a>
+</li>
+	<li class="cat-item cat-item-84"><a href="https://careers.electronicsforu.com/job-category/sales/" >Sales</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="https://careers.electronicsforu.com/job-category/service-maintenance/" >Service &amp; Maintenance</a>
+</li>
+	<li class="cat-item cat-item-28"><a href="https://careers.electronicsforu.com/job-category/software-and-system-programming/" >Software and System Programming</a>
+</li>
+	<li class="cat-item cat-item-29"><a href="https://careers.electronicsforu.com/job-category/technical-support/" >Technical Support</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="https://careers.electronicsforu.com/job-category/technical-writer/" >Technical Writer</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="https://careers.electronicsforu.com/job-category/telecom/" >Telecom</a>
+</li>
+	<li class="cat-item cat-item-23"><a href="https://careers.electronicsforu.com/job-category/testingqaqc/" >Testing/QA/QC</a>
+</li>
+	<li class="cat-item cat-item-150"><a href="https://careers.electronicsforu.com/job-category/trainee/" >Trainee</a>
+</li>
+	<li class="cat-item cat-item-22"><a href="https://careers.electronicsforu.com/job-category/walk-ins/" >Walk-ins</a>
+</li>
+</ul></div><div id="text-27" class="widget widget_text">			<div class="textwidget"><p><script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script><br />
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script></p>
+<p><script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('\/3416456\/jobselectronicsforusidebarad1', [[ 200.0 ,  166.0 ], [ 300.0 ,  250.0 ]], 'div-gpt-ad-1528264953096-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script></p>
+<p><!-- /3416456/jobselectronicsforusidebarad1 --></p>
+<div style="display: table; margin: 0 auto;">
+<div id="div-gpt-ad-1528264953096-0"><script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1528264953096-0'); });
+</script></div>
+</div>
+</div>
+		</div><div id="text-30" class="widget widget_text">			<div class="textwidget"><div class="jobs posts-loop  jobs-shortcode"><div class="posts-loop-title" style="margin-bottom: 0;margin-top:25px;">
+				<h3 class="block-title td-block-title">
+				<span class="td-pulldown-size">Professional Electronics Design</span></h3>
+				</div><div class="td_block_inner" style="padding-top: 15px;"><article class="style-1 hentry"><div class="loop-item-wrap list"><div class="td-block-span12"><div class="td_module_7 td_module_wrap td-animation-stack">
+				<div class="item-featured" style="width:auto;border-radius:0;"><a href="https://chipsnwafers.electronicsforu.com/2018/08/28/diy-drone-motor-controller/" title="DIY Drone Motor Controller" target="_blank">
+				<img width="100" height="auto" class="entry-thumb" src="https://i1.wp.com/chipsnwafers.electronicsforu.com/wp-content/uploads/2018/08/drone.png?fit=300%2C189&amp;ssl=1" style="width:100px;height:70px;border:1px solid #f3f3f3;border-radius:0;"/></a></div>
+				<div class="loop-item-content" style="padding-left:20px"><h2 class="loop-item-title"><a rel="bookmark" href="https://chipsnwafers.electronicsforu.com/2018/08/28/diy-drone-motor-controller/" title="DIY Drone Motor Controller" target="_blank">DIY Drone Motor Controller</a></h3>
+				<div class="td-module-meta-info"><span class="td-post-date"><time class="entry-date updated td-module-date" datetime="28 August 2018 | 10:30 am">28 August 2018</time></span></div></div>
+				</div></div></div></article><article class="style-1 hentry"><div class="loop-item-wrap list"><div class="td-block-span12"><div class="td_module_7 td_module_wrap td-animation-stack">
+				<div class="item-featured" style="width:auto;border-radius:0;"><a href="https://chipsnwafers.electronicsforu.com/2018/08/28/diy-robotic-lawn-mower/" title="DIY Robotic Lawn Mower" target="_blank">
+				<img width="100" height="auto" class="entry-thumb" src="https://i2.wp.com/chipsnwafers.electronicsforu.com/wp-content/uploads/2018/08/vaccum-cleaner.png?fit=300%2C191&amp;ssl=1" style="width:100px;height:70px;border:1px solid #f3f3f3;border-radius:0;"/></a></div>
+				<div class="loop-item-content" style="padding-left:20px"><h2 class="loop-item-title"><a rel="bookmark" href="https://chipsnwafers.electronicsforu.com/2018/08/28/diy-robotic-lawn-mower/" title="DIY Robotic Lawn Mower" target="_blank">DIY Robotic Lawn Mower</a></h3>
+				<div class="td-module-meta-info"><span class="td-post-date"><time class="entry-date updated td-module-date" datetime="28 August 2018 | 6:58 am">28 August 2018</time></span></div></div>
+				</div></div></div></article><article class="style-1 hentry"><div class="loop-item-wrap list"><div class="td-block-span12"><div class="td_module_7 td_module_wrap td-animation-stack">
+				<div class="item-featured" style="width:auto;border-radius:0;"><a href="https://chipsnwafers.electronicsforu.com/2018/08/28/360-degree-surround-view-camera-solution-adas/" title="360-degree Surround View Camera Solution For ADAS" target="_blank">
+				<img width="100" height="auto" class="entry-thumb" src="https://i0.wp.com/chipsnwafers.electronicsforu.com/wp-content/uploads/2018/08/designguide_tida-00455_20161007161741.jpg?fit=300%2C196&amp;ssl=1" style="width:100px;height:70px;border:1px solid #f3f3f3;border-radius:0;"/></a></div>
+				<div class="loop-item-content" style="padding-left:20px"><h2 class="loop-item-title"><a rel="bookmark" href="https://chipsnwafers.electronicsforu.com/2018/08/28/360-degree-surround-view-camera-solution-adas/" title="360-degree Surround View Camera Solution For ADAS" target="_blank">360-degree Surround View Camera Sol</a></h3>
+				<div class="td-module-meta-info"><span class="td-post-date"><time class="entry-date updated td-module-date" datetime="28 August 2018 | 5:37 am">28 August 2018</time></span></div></div>
+				</div></div></div></article><article class="style-1 hentry"><div class="loop-item-wrap list"><div class="td-block-span12"><div class="td_module_7 td_module_wrap td-animation-stack">
+				<div class="item-featured" style="width:auto;border-radius:0;"><a href="https://chipsnwafers.electronicsforu.com/2018/08/20/reference-design-improves-iot-security/" title="Reference Design Improves IoT Security " target="_blank">
+				<img width="100" height="auto" class="entry-thumb" src="https://i0.wp.com/chipsnwafers.electronicsforu.com/wp-content/uploads/2018/08/MAXREFDES155-system-board.jpg?fit=300%2C226&amp;ssl=1" style="width:100px;height:70px;border:1px solid #f3f3f3;border-radius:0;"/></a></div>
+				<div class="loop-item-content" style="padding-left:20px"><h2 class="loop-item-title"><a rel="bookmark" href="https://chipsnwafers.electronicsforu.com/2018/08/20/reference-design-improves-iot-security/" title="Reference Design Improves IoT Security " target="_blank">Reference Design Improves IoT Secur</a></h3>
+				<div class="td-module-meta-info"><span class="td-post-date"><time class="entry-date updated td-module-date" datetime="20 August 2018 | 10:47 am">20 August 2018</time></span></div></div>
+				</div></div></div></article><article class="style-1 hentry"><div class="loop-item-wrap list"><div class="td-block-span12"><div class="td_module_7 td_module_wrap td-animation-stack">
+				<div class="item-featured" style="width:auto;border-radius:0;"><a href="https://chipsnwafers.electronicsforu.com/2018/08/20/build-secure-iot-gateway/" title="Build A Secure IoT Gateway" target="_blank">
+				<img width="100" height="auto" class="entry-thumb" src="https://i0.wp.com/chipsnwafers.electronicsforu.com/wp-content/uploads/2018/08/iot-gateway.png?fit=300%2C190&amp;ssl=1" style="width:100px;height:70px;border:1px solid #f3f3f3;border-radius:0;"/></a></div>
+				<div class="loop-item-content" style="padding-left:20px"><h2 class="loop-item-title"><a rel="bookmark" href="https://chipsnwafers.electronicsforu.com/2018/08/20/build-secure-iot-gateway/" title="Build A Secure IoT Gateway" target="_blank">Build A Secure IoT Gateway</a></h3>
+				<div class="td-module-meta-info"><span class="td-post-date"><time class="entry-date updated td-module-date" datetime="20 August 2018 | 6:45 am">20 August 2018</time></span></div></div>
+				</div></div></div></article></div></div>
+</div>
+		</div><div id="text-31" class="widget widget_text">			<div class="textwidget"><div class="jobs posts-loop  jobs-shortcode"><div class="posts-loop-title" style="margin-bottom: 0;margin-top:25px;">
+				<h3 class="block-title td-block-title">
+				<span class="td-pulldown-size">IOT Zone</span></h3>
+				</div><div class="td_block_inner" style="padding-top: 15px;"><article class="style-1 hentry"><div class="loop-item-wrap list"><div class="td-block-span12"><div class="td_module_7 td_module_wrap td-animation-stack">
+				<div class="item-featured" style="width:auto;border-radius:0;"><a href="https://iot.electronicsforu.com/expert-opinion/does-the-iot-really-need-the-internet/" title="Does the IoT really need the Internet?" target="_blank">
+				<img width="100" height="auto" class="entry-thumb" src="https://iot.electronicsforu.com/wp-content/uploads/2018/08/smart-home.png" style="width:100px;height:70px;border:1px solid #f3f3f3;border-radius:0;"/></a></div>
+				<div class="loop-item-content" style="padding-left:20px"><h2 class="loop-item-title"><a rel="bookmark" href="https://iot.electronicsforu.com/expert-opinion/does-the-iot-really-need-the-internet/" title="Does the IoT really need the Internet?" target="_blank">Does the IoT really need the Intern</a></h3>
+				<div class="td-module-meta-info"><span class="td-post-date"><time class="entry-date updated td-module-date" datetime="23 August 2018 | 10:45 am">23 August 2018</time></span></div></div>
+				</div></div></div></article><article class="style-1 hentry"><div class="loop-item-wrap list"><div class="td-block-span12"><div class="td_module_7 td_module_wrap td-animation-stack">
+				<div class="item-featured" style="width:auto;border-radius:0;"><a href="https://iot.electronicsforu.com/news/taitronics-and-aiot-44th-event-edition-in-taiwan-in-this-october/" title="TAITRONICS and AIoT 44th Event Edition in Taiwan in this October" target="_blank">
+				<img width="100" height="auto" class="entry-thumb" src="https://iot.electronicsforu.com/wp-content/uploads/2018/08/2015TAITRONICS-035.jpg" style="width:100px;height:70px;border:1px solid #f3f3f3;border-radius:0;"/></a></div>
+				<div class="loop-item-content" style="padding-left:20px"><h2 class="loop-item-title"><a rel="bookmark" href="https://iot.electronicsforu.com/news/taitronics-and-aiot-44th-event-edition-in-taiwan-in-this-october/" title="TAITRONICS and AIoT 44th Event Edition in Taiwan in this October" target="_blank">TAITRONICS and AIoT 44th Event Edit</a></h3>
+				<div class="td-module-meta-info"><span class="td-post-date"><time class="entry-date updated td-module-date" datetime="22 August 2018 | 4:15 am">22 August 2018</time></span></div></div>
+				</div></div></div></article><article class="style-1 hentry"><div class="loop-item-wrap list"><div class="td-block-span12"><div class="td_module_7 td_module_wrap td-animation-stack">
+				<div class="item-featured" style="width:auto;border-radius:0;"><a href="https://iot.electronicsforu.com/news/samsung-launches-iot-enabled-clothing-care-dresser/" title="Samsung Launches IoT Enabled Clothing Care Dresser" target="_blank">
+				<img width="100" height="auto" class="entry-thumb" src="https://iot.electronicsforu.com/wp-content/uploads/2018/08/Air-Dresser.jpg" style="width:100px;height:70px;border:1px solid #f3f3f3;border-radius:0;"/></a></div>
+				<div class="loop-item-content" style="padding-left:20px"><h2 class="loop-item-title"><a rel="bookmark" href="https://iot.electronicsforu.com/news/samsung-launches-iot-enabled-clothing-care-dresser/" title="Samsung Launches IoT Enabled Clothing Care Dresser" target="_blank">Samsung Launches IoT Enabled Clothi</a></h3>
+				<div class="td-module-meta-info"><span class="td-post-date"><time class="entry-date updated td-module-date" datetime="21 August 2018 | 10:09 am">21 August 2018</time></span></div></div>
+				</div></div></div></article><article class="style-1 hentry"><div class="loop-item-wrap list"><div class="td-block-span12"><div class="td_module_7 td_module_wrap td-animation-stack">
+				<div class="item-featured" style="width:auto;border-radius:0;"><a href="https://iot.electronicsforu.com/news/apac-internet-things-reach-market-size-95-7/" title="APAC Internet of Things (IoT) to Reach a Market Size of $95.7 Billion by 2022" target="_blank">
+				<img width="100" height="auto" class="entry-thumb" src="https://iot.electronicsforu.com/wp-content/uploads/2017/11/iot-ecosystem-e1534855394379.jpg" style="width:100px;height:70px;border:1px solid #f3f3f3;border-radius:0;"/></a></div>
+				<div class="loop-item-content" style="padding-left:20px"><h2 class="loop-item-title"><a rel="bookmark" href="https://iot.electronicsforu.com/news/apac-internet-things-reach-market-size-95-7/" title="APAC Internet of Things (IoT) to Reach a Market Size of $95.7 Billion by 2022" target="_blank">APAC Internet of Things (IoT) to Re</a></h3>
+				<div class="td-module-meta-info"><span class="td-post-date"><time class="entry-date updated td-module-date" datetime="20 August 2018 | 12:38 pm">20 August 2018</time></span></div></div>
+				</div></div></div></article><article class="style-1 hentry"><div class="loop-item-wrap list"><div class="td-block-span12"><div class="td_module_7 td_module_wrap td-animation-stack">
+				<div class="item-featured" style="width:auto;border-radius:0;"><a href="https://iot.electronicsforu.com/expert-opinion/iot-and-cryptocurrency-whats-in-store-for-the-merge/" title="IoT and Cryptocurrency: What’s in Store for the Merge?" target="_blank">
+				<img width="100" height="auto" class="entry-thumb" src="https://iot.electronicsforu.com/wp-content/uploads/2018/03/Wanesy.jpeg" style="width:100px;height:70px;border:1px solid #f3f3f3;border-radius:0;"/></a></div>
+				<div class="loop-item-content" style="padding-left:20px"><h2 class="loop-item-title"><a rel="bookmark" href="https://iot.electronicsforu.com/expert-opinion/iot-and-cryptocurrency-whats-in-store-for-the-merge/" title="IoT and Cryptocurrency: What’s in Store for the Merge?" target="_blank">IoT and Cryptocurrency: What’s in</a></h3>
+				<div class="td-module-meta-info"><span class="td-post-date"><time class="entry-date updated td-module-date" datetime="12 August 2018 | 6:30 pm">12 August 2018</time></span></div></div>
+				</div></div></div></article></div></div>
+</div>
+		</div>	</div>
+</div>
+ 
+	</div> <!-- /.row -->
+</div> <!-- /.container-boxed.max.offset -->
+
+
+	<footer class="colophon site-info">
+		<div class="container-full">
+			<div class="footer-more">
+				<div class="container-boxed">
+					<div class="row">
+						<div class="col-md-12">
+													<div class="noo-bottom-bar-content">
+								© Copyright 2018 EFY Enterprises Pvt. Ltd. All rights reserved.							</div>
+												</div>
+					</div>
+				</div>
+			</div>
+		</div> <!-- /.container-boxed -->
+	</footer> <!-- /.colophon.site-info -->
+</div> <!-- /#top.site -->
+<a href="#" class="go-to-top hidden-print"><i class="fa fa-angle-up"></i></a><div id="modalSendEmailJob" class="modal fade" tabindex="-1"
+     role="dialog"
+     aria-hidden="true">
+	<div class="modal-dialog modal-md">
+		<div class="modal-content noo-form-email-job-wrap">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+						aria-hidden="true">&times;</span></button>
+				<h4 class="modal-title text-center">
+					Send to a friend				</h4>
+			</div>
+			<div class="modal-body">
+				<form>
+					<div class="row">
+						<div class="col-sm-6">
+							<div class="form-group">
+								<label
+									for="friend_name">Your full name</label>
+								<input type="text" class="form-control" id="friend_name" name="friend_name"
+								       placeholder="Enter your full name">
+							</div>
+						</div>
+
+						<div class="col-sm-6">
+							<div class="form-group">
+								<label
+									for="friend_email">Your friend email</label>
+								<input type="email" class="form-control" id="friend_email" name="friend_email"
+								       placeholder="Enter email address.">
+							</div>
+						</div>
+					</div>
+
+					<div class="form-group">
+						<label for="email_content">Content</label>
+						<textarea class="form-control" name="email_content" id="noo_form_email_content" rows="4"></textarea>
+					</div>
+
+
+					<input type="hidden" name="job_id" id="noo_form_job_id" value="0"/>
+
+					<div class="form-group">
+						<p class="help-block noo-job-mail-notice"></p>
+					</div>
+
+				</form>
+			</div>
+
+			<div class="modal-footer">
+				<button type="submit"
+				        class="btn btn-primary noo-btn noo-btn-send-job-email">Send</button>
+			</div>
+
+		</div>
+	</div>
+</div><script type='text/javascript'>
+/* <![CDATA[ */
+var aflb = {"slideon":"hover","placement":"right","width":"245"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://careers.electronicsforu.com/wp-content/plugins/aspexi-facebook-like-box/js/aflb.js?ver=4.9.8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/careers.electronicsforu.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://careers.electronicsforu.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.3'></script>
+<script type='text/javascript' src='https://careers.electronicsforu.com/wp-includes/js/comment-reply.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/framework/vendor/jquery.touchSwipe.min.js'></script>
+<script type='text/javascript' src='https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/framework/vendor/bootstrap.min.js'></script>
+<script type='text/javascript' src='https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/framework/vendor/hoverIntent-r7.min.js'></script>
+<script type='text/javascript' src='https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/framework/vendor/superfish-1.7.4.min.js'></script>
+<script type='text/javascript' src='https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/framework/vendor/jplayer/jplayer-2.5.0.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var nooL10n = {"ajax_url":"\/wp-admin\/admin-ajax.php","home_url":"https:\/\/careers.electronicsforu.com\/","is_blog":"false","is_archive":"false","is_single":"true","is_companies":"false","is_jobs":"false","is_job":"false","is_resumes":"false","is_resume":"false","is_shop":"false","is_product":"false","marker_icon":"https:\/\/careers.electronicsforu.com\/wp-content\/themes\/noo-jobmonster\/assets\/images\/map-marker.png"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/assets/js/min/noo.min.js'></script>
+<script type='text/javascript' src='https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/framework/vendor/jquery-validate/jquery.validate.min.js'></script>
+<script type='text/javascript' src='https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/assets/js/min/jquery.blockUI.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var nooMemberL10n = {"ajax_security":"a0170bcaec","is_logged":"","ajax_url":"\/wp-admin\/admin-ajax.php","confirm_not_agree_term":"Please agree with the Terms of use","confirm_delete":"Are you sure to delete this job?","loadingmessage":"<i class=\"fa fa-spinner fa-spin\"><\/i> Sending info, please wait..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/assets/js/min/member.min.js'></script>
+<script type='text/javascript' src='https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/framework/vendor/owl.carousel.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wysihtml5L10n = {"normal":"Normal text","h1":"Heading 1","h2":"Heading 2","h3":"Heading 3","h4":"Heading 4","h5":"Heading 5","h6":"Heading 6","bold":"Bold","italic":"Italic","underline":"Underline","small":"Small","unordered":"Unordered list","ordered":"Ordered list","outdent":"Outdent","indent":"Indent","align_left":"Align Left","align_right":"Align Right","align_center":"Align Center","align_justify":"Align Justify","insert_link":"Insert link","cancel":"Cancel","target":"Open link in a new window","insert_image":"Insert image","edit_html":"Edit HTML","black":"Black","silver":"Silver","gray":"Grey","maroon":"Maroon","red":"Red","purple":"Purple","green":"Green","olive":"Olive","navy":"Navy","blue":"Blue","orange":"Orange","stylesheet_rtl":"https:\/\/careers.electronicsforu.com\/wp-content\/themes\/noo-jobmonster\/framework\/vendor\/bootstrap-wysihtml5\/stylesheet.css"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/framework/vendor/bootstrap-wysihtml5/bootstrap3-wysihtml5.custom.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var noo_chosen = {"multiple_text":"Select Some Options","single_text":"Select an Option","no_result_text":"No results match"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/framework/vendor/chosen/chosen.jquery.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var datetime = {"lang":"en","rtl":"","January":"January","February":"February","March":"March","April":"April","May":"May","June":"June","July":"July","August":"August","September":"September","October":"October","November":"November","December":"December","Sunday":"Sunday","Monday":"Monday","Tuesday":"Tuesday","Wednesday":"Wednesday","Thursday":"Thursday","Friday":"Friday","Saturday":"Saturday"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/framework/vendor/datetimepicker/jquery.datetimepicker.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var nooJobL10n = {"ajax_url":"\/wp-admin\/admin-ajax.php","ajax_finishedMsg":"All jobs displayed","validate_messages":{"required":"This field is required.","remote":"Please fix this field.","email":"Please enter a valid email address.","url":"Please enter a valid URL.","date":"Please enter a valid date.","dateISO":"Please enter a valid date (ISO).","number":"Please enter a valid number.","digits":"Please enter only digits.","creditcard":"Please enter a valid credit card number.","equalTo":"Please enter the same value again.","maxlength":"Please enter no more than {0} characters.","minlength":"Please enter at least {0} characters.","rangelength":"Please enter a value between {0} and {1} characters long.","range":"Please enter a value between {0} and {1}.","max":"Please enter a value less than or equal to {0}.","min":"Please enter a value greater than or equal to {0}.","chosen":"Please choose a option","uploadimage":"Please select a image file","extension":"Please upload a valid file extension."},"date_format":"F j, Y","file_exts":"pdf|doc|docx"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/assets/js/min/job.min.js'></script>
+<script type='text/javascript' src='https://careers.electronicsforu.com/wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
+<div id="fb-root"></div>
+            <script>(function(d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) return;
+                js = d.createElement(s); js.id = id;
+                js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.12&appId=1548213832159053";
+                fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));</script>
+            <style type="text/css">@media (max-width: 305px) { .aspexifblikebox { display: none; } } .fb-xfbml-parse-ignore {
+                    display: none;
+                }
+                
+                .aspexifblikebox {
+                    overflow: hidden;
+                    z-index: 99999999;
+                    position: fixed;
+                    padding: 0 0 0 48px;
+                    top: 50%;margin-top:-117px;
+                    right: -245px;
+                }
+                
+                .aspexifblikebox .aspexi_facebook_iframe {
+                    padding: 0;
+                    border: 2px solid #3B5998;
+                    background: #fff;
+                    width: 245px;
+                    height: 234px;
+                    box-sizing: border-box;
+                }
+                
+                .aspexifblikebox .fb-page {
+                    background: url("https://careers.electronicsforu.com/wp-content/plugins/aspexi-facebook-like-box/images/load.gif") no-repeat center center;
+                    width: 241px;
+                    height: 230px;
+                    margin: 0;
+                }
+                
+                .aspexifblikebox .fb-page span {
+                    background: #fff;
+                    height: 100% !important;
+                }
+                
+                .aspexifblikebox .aspexi_facebook_button {
+                    background: url("https://careers.electronicsforu.com/wp-content/plugins/aspexi-facebook-like-box/images/fb1-right.png") no-repeat scroll transparent;
+                    height: 155px;
+                    width: 48px;
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    cursor: pointer;
+                }
+            </style>
+            <div class="aspexifblikebox">
+                <div class="aspexi_facebook_button"></div>
+                <div class="aspexi_facebook_iframe">
+                    <div class="fb-page" data-href="https://www.facebook.com/engineeringjobs4u" data-width="241" data-height="230" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/engineeringjobs4u"><a href="https://www.facebook.com/engineeringjobs4u">Facebook</a></blockquote></div></div>
+                </div>
+            </div>		<div class="memberModalLogin modal fade" tabindex="-1" role="dialog" aria-labelledby="5b890e84dce44_memberModalLoginLabel" aria-hidden="true">
+			<div class="modal-dialog modal-member">
+		    	<div class="modal-content">
+					<div class="modal-header">
+				        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+				        <h4 class="modal-title" id="5b890e84dce44_memberModalLoginLabel">Login</h4>
+				     </div>
+				      <div class="modal-body">
+				        
+<form method="POST" style="max-width: 600px; margin: auto" class="noo-ajax-login-form form-horizontal" action="https://careers.electronicsforu.com/member/?action=login&redirect_to=https%3A%2F%2Fcareers.electronicsforu.com%2Fcareer-guidance%2Fhr-trends%2Fchoosing-mba-computer-science-engineering%3Flogged_in%3D1">
+	<div style="display: none">
+		<input type="hidden" name="action" value="noo_ajax_login">
+		<input type="hidden" class="security" name="security" value="a6e2941317" />
+	</div>
+	<div class="form-group text-center noo-ajax-result" style="display: none"></div>
+		
+	<div class="form-group row required-field">
+		<label for="5b890e84dced7_log" class="col-sm-3 control-label">
+							Username					</label>
+		<div class="col-sm-9">
+			<input type="text" class="log form-control" id="5b890e84dced7_log" name="log" required value="" placeholder="Username">
+		</div>
+	</div>
+	<div class="form-group row required-field">
+		<label for="5b890e84dced7_pwd" class="col-sm-3 control-label">Password</label>
+		<div class="col-sm-9">
+			<input type="password" id="5b890e84dced7_pwd" class="pwd form-control" required value="" name="pwd" placeholder="Password">
+		</div>
+	</div>
+
+	
+	<div class="form-group row">
+	    <div class="col-sm-9 col-sm-offset-3">
+	    	<div class="checkbox">
+	    		<div class="form-control-flat"><label class="checkbox"><input type="checkbox" id="5b890e84dced7_rememberme" class="rememberme" name="rememberme"  value="forever"><i></i> Remember Me</label></div>
+		    </div>
+		</div>
+	</div>
+	<div class="form-actions form-group text-center">
+	 		 		<input type="hidden" class="redirect_to" name="redirect_to" value="https://careers.electronicsforu.com/career-guidance/hr-trends/choosing-mba-computer-science-engineering?logged_in=1" />
+	 		 	<button type="submit" class="btn btn-primary">Sign In</button>
+	 	<div class="login-form-links">
+	 		<span><a href="https://careers.electronicsforu.com/member/lost-password/"><i class="fa fa-question-circle"></i> Forgot Password?</a></span>
+	 			 		<span>Don't have an account yet? <a href="https://careers.electronicsforu.com/member/?action=login&mode=register" class="member-register-link" >Register Now <i class="fa fa-long-arrow-right"></i></a></span>
+	 			 	</div>
+	 </div>
+	 </form>				      </div>
+				</div>
+			</div>
+		</div>
+				<div class="memberModalRegister modal fade" tabindex="-1" role="dialog" aria-labelledby="5b890e84dd05a_memberModalRegisterLabel" aria-hidden="true">
+			<div class="modal-dialog modal-member">
+		    	<div class="modal-content">
+					<div class="modal-header">
+				        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+				        <h4 class="modal-title" id="5b890e84dd05a_memberModalRegisterLabel">Sign Up</h4>
+				     </div>
+				      <div class="modal-body">
+				        	<form class="noo-ajax-register-form form-horizontal" action="https://careers.electronicsforu.com/member/" method="post" id="registerform">
+		<div style="display: none">
+			<input type="hidden" class="redirect_to" name="redirect_to" value="" />
+			<input type="hidden" name="action" value="noo_ajax_register">
+			<input type="hidden" class="security" name="security" value="bc4a695e51" />
+		</div>
+		<div class="form-group text-center noo-ajax-result" style="display: none"></div>
+							<div class="form-group row user_login_container required-field">
+				<label for="5b890e84dd158_user_login" class="col-sm-3 control-label">Username</label>
+				<div class="col-sm-9">
+					<input type="text" class="user_login form-control" id="5b890e84dd158_user_login" name="user_login" required placeholder="Username">
+				</div>
+			</div>
+				<div class="form-group row required-field">
+			<label for="5b890e84dd158_user_email" class="col-sm-3 control-label">Email</label>
+			<div class="col-sm-9">
+				<input type="email" class="user_email form-control" id="5b890e84dd158_user_email"  name="user_email" required placeholder="Email">
+			</div>
+		</div>
+		<div class="form-group row required-field">
+			<label for="5b890e84dd158_user_password" class="col-sm-3 control-label">Password</label>
+			<div class="col-sm-9">
+				<input type="password" id="5b890e84dd158_user_password" class="user_password form-control" required value="" name="user_password" placeholder="Password">
+			</div>
+		</div>
+		<div class="form-group row required-field">
+			<label for="5b890e84dd158_cuser_password" class="col-sm-3 control-label">Retype your password</label>
+			<div class="col-sm-9">
+				<input type="password" id="5b890e84dd158_cuser_password" class="cuser_password form-control" required value="" name="cuser_password" placeholder="Repeat password">
+			</div>
+		</div>
+					<div class="form-group row required-field">
+				<label class="col-sm-3 control-label">You are</label>
+				<div class="col-sm-9">
+					<div class="form-control-flat">
+						<select class="user_role" name="user_role" required>
+							<option value="">-Select-</option>
+							<option value="employer" >I&#039;m an employer looking to hire</option>
+							<option value="candidate" >I&#039;m a candidate looking for a job</option>
+						</select>
+						<i class="fa fa-caret-down"></i>
+					</div>
+				</div>
+			</div>
+						<div class="form-group text-center">
+						<button type="submit" class="btn btn-primary">Sign Up</button>
+		</div>
+	 	<div class="login-form-links">
+	 		<span>Already have an account? <a href="https://careers.electronicsforu.com/member/?action=login" class="member-login-link" >Login Now <i class="fa fa-long-arrow-right"></i></a></span>
+	 	</div>
+			</form>
+				      </div>
+				</div>
+			</div>
+		</div>
+		</body>
+</html>
+�%�A��      [���[��?r�       i    :https://careers.electronicsforu.com/career-guidance/hr-trends/choosing-mba-computer-science-engineering/ necko:classified 1 strongly-framed 1 security-info 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 request-method GET response-head HTTP/2.0 200 OK
+server: nginx
+date: Fri, 31 Aug 2018 09:46:44 GMT
+content-type: text/html; charset=UTF-8
+x-pingback: https://careers.electronicsforu.com/xmlrpc.php
+link: <https://careers.electronicsforu.com/wp-json/>; rel="https://api.w.org/", <https://careers.electronicsforu.com/?p=13453>; rel=shortlink
+host-header: 192fc2e7e50945beb8231a492d6a8024
+x-proxy-cache: MISS
+X-Firefox-Spdy: h2
+ original-response-headers server: nginx
+date: Fri, 31 Aug 2018 09:46:44 GMT
+content-type: text/html; charset=UTF-8
+x-pingback: https://careers.electronicsforu.com/xmlrpc.php
+link: <https://careers.electronicsforu.com/wp-json/>; rel="https://api.w.org/", <https://careers.electronicsforu.com/?p=13453>; rel=shortlink
+host-header: 192fc2e7e50945beb8231a492d6a8024
+x-proxy-cache: MISS
+X-Firefox-Spdy: h2
+ uncompressed-len 0 predictor::resource-count 100 predictor::https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/assets/css/owl.carousel.css?ver=4.9.8 1,1,1535742955,4096 predictor::https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/assets/css/owl.theme.css?ver=4.9.8 1,1,1535742955,4096 predictor::https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/assets/vendor/jquery-confirm/jquery-confirm.min.css?ver=4.9.8 1,1,1535742955,4096 predictor::https://fonts.googleapis.com/css?family=Droid+Serif:100,300,400,600,700,900,300italic,400italic,700italic,900italic 1,1,1535742955,4096 predictor::https://fonts.googleapis.com/css?family=Montserrat:100,300,400,600,700,900,300italic,400italic,700italic,900italic 1,1,1535742955,4096 predictor::https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/assets/vendor/DataTables/datatables.min.css 1,1,1535742955,4096 predictor::https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/framework/vendor/datetimepicker/jquery.datetimepicker.css?ver=4.9.8 1,1,1535742955,4096 predictor::https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/framework/vendor/chosen/chosen.css 1,1,1535742955,4096 predictor::https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/framework/vendor/bootstrap-wysihtml5/bootstrap-wysihtml5.css 1,1,1535742955,4096 predictor::https://careers.electronicsforu.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.1.0 1,1,1535742955,4096 predictor::https://careers.electronicsforu.com/wp-includes/js/jquery/jquery.js?ver=1.12.4 1,1,1535742955,4096 predictor::https://careers.electronicsforu.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1 1,1,1535742955,4096 predictor::https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/framework/vendor/readmore.min.js 1,1,1535742955,4096 predictor::https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/assets/vendor/jquery-confirm/jquery-confirm.min.js 1,1,1535742955,4096 predictor::https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/assets/vendor/notify.js 1,1,1535742955,4096 predictor::https://maps.googleapis.com/maps/api/js?sensor=false&language=en_US&libraries=places 1,1,1535742955,4096 predictor::https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/framework/vendor/locationpicker.jquery.js 1,1,1535742955,4096 predictor::https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/framework/vendor/modernizr-2.7.1.min.js 1,1,1535742955,4096 predictor::https://www.google.com/recaptcha/api.js 1,1,1535742955,4097 predictor::https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/assets/vendor/DataTables/datatables.min.js 1,1,1535742955,4096 predictor::https://www.google-analytics.com/analytics.js 1,1,1535742955,4096 predictor::https://careers.electronicsforu.com/wp-includes/js/wp-emoji-release.min.js?ver=4.9.8 1,1,1535742955,4096 predictor::https://www.googletagservices.com/tag/js/gpt.js 1,1,1535742955,4096 predictor::https://careers.electronicsforu.com/wp-content/uploads/2018/06/careers-electronicsforu-logo.png 1,1,1535742955,4097 predictor::https://secure.gravatar.com/avatar/341eeda96016632b0d2fe3d6cfd6e031?s=95&d=mm&r=g 1,1,1535742955,4096 predictor::https://careers.electronicsforu.com/wp-content/uploads/2018/06/new-1.png 1,1,1535742955,4097 predictor::https://electronicsforu.com/wp-contents/uploads/2018/08/Circuit-diagram-for-graphical-data-display-with-Arduino-and-HTML5.jpg 1,1,1535742955,4096 predictor::https://electronicsforu.com/wp-contents/uploads/2018/08/Fig-1-Bluetooth-ESP32.png 1,1,1535742955,4096 predictor::https://electronicsforu.com/wp-contents/uploads/2018/08/1-4.jpg 1,1,1535742955,4096 predictor::https://electronicsforu.com/wp-contents/uploads/2018/08/1-2.jpg 1,1,1535742955,4096 predictor::https://electronicsforu.com/wp-contents/uploads/2018/08/Fig-14-1.png 1,1,1535742955,4096 predictor::https://i1.wp.com/chipsnwafers.electronicsforu.com/wp-content/uploads/2018/08/drone.png?fit=300%2C189&ssl=1 1,1,1535742955,4096 predictor::https://i2.wp.com/chipsnwafers.electronicsforu.com/wp-content/uploads/2018/08/vaccum-cleaner.png?fit=300%2C191&ssl=1 1,1,1535742955,4096 predictor::https://i0.wp.com/chipsnwafers.electronicsforu.com/wp-content/uploads/2018/08/designguide_tida-00455_20161007161741.jpg?fit=300%2C196&ssl=1 1,1,1535742955,4096 predictor::https://i0.wp.com/chipsnwafers.electronicsforu.com/wp-content/uploads/2018/08/MAXREFDES155-system-board.jpg?fit=300%2C226&ssl=1 1,1,1535742955,4096 predictor::https://i0.wp.com/chipsnwafers.electronicsforu.com/wp-content/uploads/2018/08/iot-gateway.png?fit=300%2C190&ssl=1 1,1,1535742955,4096 net-response-time-onstart 6141 net-response-time-onstop 6395 predictor::https://iot.electronicsforu.com/wp-content/uploads/2018/08/smart-home.png 1,1,1535742955,4096 predictor::https://iot.electronicsforu.com/wp-content/uploads/2018/08/2015TAITRONICS-035.jpg 1,1,1535742955,4096 predictor::https://iot.electronicsforu.com/wp-content/uploads/2018/08/Air-Dresser.jpg 1,1,1535742955,4096 predictor::https://iot.electronicsforu.com/wp-content/uploads/2017/11/iot-ecosystem-e1534855394379.jpg 1,1,1535742955,4096 predictor::https://iot.electronicsforu.com/wp-content/uploads/2018/03/Wanesy.jpeg 1,1,1535742955,4096 predictor::https://careers.electronicsforu.com/wp-content/plugins/aspexi-facebook-like-box/js/aflb.js?ver=4.9.8 1,1,1535742955,4096 predictor::https://careers.electronicsforu.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.3 1,1,1535742955,4096 predictor::https://careers.electronicsforu.com/wp-includes/js/comment-reply.min.js?ver=4.9.8 1,1,1535742955,4096 predictor::https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/framework/vendor/jquery.touchSwipe.min.js 1,1,1535742955,4096 predictor::https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/framework/vendor/bootstrap.min.js 1,1,1535742955,4096 predictor::https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/framework/vendor/hoverIntent-r7.min.js 1,1,1535742955,4096 predictor::https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/framework/vendor/superfish-1.7.4.min.js 1,1,1535742955,4096 predictor::https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/framework/vendor/jplayer/jplayer-2.5.0.min.js 1,1,1535742955,4096 predictor::https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/assets/js/min/noo.min.js 1,1,1535742955,4096 predictor::https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/framework/vendor/jquery-validate/jquery.validate.min.js 1,1,1535742955,4096 predictor::https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/assets/js/min/jquery.blockUI.min.js 1,1,1535742955,4096 predictor::https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/assets/js/min/member.min.js 1,1,1535742955,4096 predictor::https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/framework/vendor/owl.carousel.min.js 1,1,1535742955,4096 predictor::https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/framework/vendor/bootstrap-wysihtml5/bootstrap3-wysihtml5.custom.min.js 1,1,1535742955,4096 predictor::https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/framework/vendor/chosen/chosen.jquery.min.js 1,1,1535742955,4096 predictor::https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/framework/vendor/datetimepicker/jquery.datetimepicker.js 1,1,1535742955,4096 predictor::https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/assets/js/min/job.min.js 1,1,1535742955,4096 predictor::https://careers.electronicsforu.com/wp-includes/js/wp-embed.min.js?ver=4.9.8 1,1,1535742955,4096 predictor::https://fonts.gstatic.com/s/droidserif/v8/tDbI2oqRg1oM3QBjjcaDkOr9rAU.woff2 1,1,1535742955,4096 predictor::https://www.gstatic.com/recaptcha/api2/v1535045166622/recaptcha__en.js 1,1,1535742955,4096 predictor::https://d31qbv1cthcecs.cloudfront.net/atrk.js 1,1,1535742955,4096 predictor::https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js 1,1,1535742955,4096 predictor::http://jobs.electronicsforu.com/wp-content/uploads/2015/09/Jobs-Find-your-career.jpg 1,1,1535742955,4096 predictor::https://fonts.gstatic.com/s/droidserif/v8/tDbV2oqRg1oM3QBjjcaDkOJGiRD7OwE.woff2 1,1,1535742955,4096 predictor::https://careers.electronicsforu.com/wp-content/themes/noo-jobmonster/framework/vendor/fontawesome/fonts/fontawesome-webfont.woff2?v=4.7.0 1,1,1535742955,4096 predictor::https://fonts.gstatic.com/s/montserrat/v12/JTURjIg1_i6t8kCHKm45_bZF3gnD_g.woff2 1,1,1535742955,4096 predictor::https://fonts.gstatic.com/s/droidserif/v8/tDbK2oqRg1oM3QBjjcaDkOr4nAfcHg.woff2 1,1,1535742955,4096 predictor::https://fonts.gstatic.com/s/montserrat/v12/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2 1,1,1535742955,4096 predictor::https://fonts.gstatic.com/s/montserrat/v12/JTURjIg1_i6t8kCHKm45_dJE3gnD_g.woff2 1,1,1535742955,4096 predictor::https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.12&appId=1548213832159053 1,1,1535742955,4096 predictor::https://careers.electronicsforu.com/wp-content/plugins/aspexi-facebook-like-box/images/fb1-right.png 1,1,1535742955,4097 predictor::https://careers.electronicsforu.com/wp-content/plugins/aspexi-facebook-like-box/images/load.gif 1,1,1535742955,4097 predictor::https://ajax.googleapis.com/ajax/libs/webfont/1.6.16/webfont.js 1,1,1535742955,4096 predictor::https://cdn.shopify.com/s/files/1/2122/0855/products/Screen_Shot_2017-08-11_at_21.38.24_550x825.png?v=1502467785 1,1,1535742955,4096 predictor::https://maps.googleapis.com/maps-api-v3/api/js/34/4/common.js 1,1,1535742955,4096 predictor::https://maps.googleapis.com/maps-api-v3/api/js/34/4/util.js 1,1,1535742955,4096 predictor::https://maps.googleapis.com/maps-api-v3/api/js/34/4/stats.js 1,1,1535742955,4096 predictor::https://maps.googleapis.com/maps/api/js/AuthenticationService.Authenticate?1shttps%3A%2F%2Fcareers.electronicsforu.com%2Fcareer-guidance%2Fhr-trends%2Fchoosing-mba-computer-science-engineering%2F&5shttps%3A%2F%2Fcareers.electronicsforu.com%2Fcareer-guidance%2Fhr-trends%2Fchoosing-mba-computer-science-engineering%2F&callback=_xdc_._icgxgx&token=104799 1,1,1535742955,4096 predictor::https://adservice.google.co.in/adsid/integrator.js?domain=careers.electronicsforu.com 1,1,1535742955,4096 predictor::https://adservice.google.com/adsid/integrator.js?domain=careers.electronicsforu.com 1,1,1535742955,4096 predictor::https://securepubads.g.doubleclick.net/gpt/pubads_impl_243.js 1,1,1535742955,4096 predictor::https://securepubads.g.doubleclick.net/gpt/pubads_impl_rendering_243.js 1,1,1535742955,4096 predictor::https://cdn.ampproject.org/rtv/011535566825959/amp4ads-host-v0.js 1,1,1535742955,4096 predictor::https://cdn.ampproject.org/rtv/011535566825959/amp4ads-v0.js 1,1,1535742955,4096 predictor::https://cdn.ampproject.org/rtv/011535566825959/v0/amp-analytics-0.1.js 1,1,1535742955,4096 predictor::https://tpc.googlesyndication.com/simgad/1813271409192394725 1,1,1535742955,4096 predictor::https://www.google.com/ads/measurement/l?ebcid=ALh7CaTAt6gIRDwmHrUmvo1bgWxfyHWqH35QIsjvL_TedQgCnpmwF3tb9z5hhmLw2W_e1i05SbgZCphvqftFS-JTmDb4gMzLBQ 1,1,1535742955,4096 predictor::https://pagead2.googlesyndication.com/pagead/osd.js 1,1,1535742955,4096 predictor::https://tpc.googlesyndication.com/simgad/7204482601257980035 1,1,1535742955,4096 predictor::https://www.google.com/ads/measurement/l?ebcid=ALh7CaS2mEVyJTal4okMJFt4_pD4XlhOfLBHCX1Mn1cCx9WgPeWZ8CBN_ZX-GT4dLPxtj5jaDLYpCYPezBzEb5xp95JMzEgQgw 1,1,1535742955,4096 predictor::https://tpc.googlesyndication.com/simgad/5612642529900824824 1,1,1535742955,4096 predictor::https://www.google.com/ads/measurement/l?ebcid=ALh7CaQCY7VEIcpK9gJ727dOeF3JglgpidIh_rj_j7d8kW2XKGLikYTBboTjid3t4t09OA0NI1Mv9Eo97lw1E3FVsdLNRitk-Q 1,1,1535742955,4096 predictor::https://tpc.googlesyndication.com/simgad/8805767186179970732 1,1,1535742955,4096 predictor::https://www.google.com/ads/measurement/l?ebcid=ALh7CaQZ63hiLQql0DDDN3s3y4-7qd3sdpFeBmyhFz9OXYQKC7GpHJZUZ_6pVgFlRnetZ8i1S7aaWoIQNjwVV20iUPBcry7G_g 1,1,1535742955,4096 predictor::https://tpc.googlesyndication.com/simgad/15890614377017853532 1,1,1535742955,4096 predictor::https://www.google.com/ads/measurement/l?ebcid=ALh7CaTt4JtlBNA4UODOWLtdhtNVEUy58LECwAWabWiauVU-uQhI_h9kEappls97sHp_yzLyqbULE-eUei-P9RcwMCqSLeCzNA 1,1,1535742955,4096 predictor::https://pagead2.googlesyndication.com/pcs/activeview?xai=AKAOjst4S5MN1zlMnSyM2zGWBx5gsPuRC3n9BXpt60nG01ni2NXWCxtF8H1V9nwht0Szn2f_qULdLwjUgZSpl13TcRj-55EVx-lyedA&sig=Cg0ArKJSzEeG9aUFuBbqEAE&id=ampim&o=191,1249&d=640,60&ss=1366,768&bs=1301,670&mcvt=1000&mtos=0,0,1000,1000,1000&tos=0,0,1000,0,0&tfs=324&tls=1324&g=79.66666666666666&h=79.66666666666666&r=v&pt=203&tt=1325&adk=2527624991&avms=ampa 1,1,1535742955,4096 predictor::https://pagead2.googlesyndication.com/pcs/activeview?xai=AKAOjstr9sNzM3XXNxJg9RUvPf0hBrr4PFlnXnqjdg9mB1irzLbVmp85NGRr8bjugNxDbw2iVTeOQvQPAzwx7X2_84fHrvcJmiH1j2I&sig=Cg0ArKJSzK56Qq2AUHjUEAE&id=ampim&o=191,933&d=640,60&ss=1366,768&bs=1301,670&mcvt=1000&mtos=0,0,1000,1000,1000&tos=0,0,1000,0,0&tfs=358&tls=1358&g=100&h=100&r=v&pt=201&tt=1358&adk=2200157700&avms=ampa 1,1,1535742955,4096 predictor::https://pagead2.googlesyndication.com/pcs/activeview?xai=AKAOjsvwusvPYaXLe927HN5rIZbMBpqbWMGg5ew8C2gidNqTUk2XuOiKLvXgR71lhM_opMIWuSk0EgDiOrkdfZ0E-a5GoAj695QYrpQ&sig=Cg0ArKJSzLItwaN0JJ2VEAE&id=ampim&o=896,1727&d=300,250&ss=1366,768&bs=1301,670&mcvt=1002&mtos=0,0,1002,1002,1002&tos=0,0,1002,0,0&tfs=7744&tls=13744&g=51.980000000000004&h=100&r=v&pt=101&tt=13744&adk=4262654201&avms=ampa 1,1,1535742955,4096  \b

@@ -1,0 +1,24 @@
+TARGETS = rsyslog uuidd unattended-upgrades killprocs apport dbus irqbalance thermald speech-dispatcher kerneloops single whoopsie cron rsync anacron acpid jenkins bluetooth avahi-daemon lightdm cups-browsed cups saned plymouth grub-common ondemand rc.local
+INTERACTIVE =
+dbus: rsyslog
+irqbalance: rsyslog
+thermald: rsyslog
+speech-dispatcher: rsyslog
+kerneloops: rsyslog
+single: killprocs
+whoopsie: rsyslog
+cron: rsyslog
+rsync: rsyslog
+anacron: rsyslog
+acpid: rsyslog
+jenkins: rsyslog
+bluetooth: rsyslog dbus
+avahi-daemon: dbus rsyslog
+lightdm: dbus acpid
+cups-browsed: rsyslog
+cups: rsyslog
+saned: rsyslog dbus
+plymouth: bluetooth rsyslog dbus uuidd irqbalance unattended-upgrades thermald speech-dispatcher avahi-daemon lightdm kerneloops cups-browsed cups saned whoopsie cron rsync anacron acpid apport jenkins
+grub-common: bluetooth rsyslog dbus uuidd irqbalance unattended-upgrades thermald speech-dispatcher avahi-daemon lightdm kerneloops cups-browsed cups saned whoopsie cron rsync anacron acpid apport jenkins
+ondemand: bluetooth rsyslog dbus uuidd irqbalance unattended-upgrades thermald speech-dispatcher avahi-daemon lightdm kerneloops cups-browsed cups saned whoopsie cron rsync anacron acpid apport jenkins
+rc.local: bluetooth rsyslog dbus uuidd irqbalance unattended-upgrades thermald speech-dispatcher avahi-daemon lightdm kerneloops cups-browsed cups saned whoopsie cron rsync anacron acpid apport jenkins

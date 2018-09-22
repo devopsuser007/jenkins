@@ -1,0 +1,1205 @@
+
+
+<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
+<!--[if !IE]><!-->
+<!DOCTYPE html>
+<html lang="en">
+<!--<![endif]-->
+
+<head id="ctl00_Head1"><meta charset="utf-8" /><title>
+	Skill Assessment - Personal Details
+</title><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta content="width=device-width, initial-scale=1.0" name="viewport" /><meta http-equiv="Content-type" content="text/html; charset=utf-8" /><link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300italic,400italic,700italic,400,300,700&amp;subset=all" rel="stylesheet" type="text/css" /><link href="/assets/base/css/base-cg.css?v=7" rel="stylesheet" type="text/css" /><link href="/assets/base/css/style-cg.css?v=9" rel="stylesheet" type="text/css" /><link rel="shortcut icon" href="/favicon.ico" />
+
+    <!--[if lt IE 9]>
+	<script src="/assets/global/plugins/excanvas.min.js"></script> 
+	<![endif]-->
+    <script src="/assets/base/js/global-cg.js?v=21" type="text/javascript"></script>
+
+
+    <content itemscope itemtype="http://schema.org/Organization"> 
+           <meta itemprop="name" content="CareerGuide.com" /><meta itemprop="description" content="Get instant answers to career queries from our career experts. Browse career question in the knowlede-base and take psychometric career tests online." /><meta itemprop="image" content="https://www.careerguide.com/Images-MCG/CareerGuide-high.png" /> 
+    </content>
+
+    
+    <meta name="robots" content="noindex,nofollow">
+
+
+
+<style type="text/css">
+
+#Float_right {
+float:left;
+position: relative;
+z-index: 10;
+    }
+
+    @media only screen and (min-width: 772px) {
+        #contact_us {
+        padding-left:100px;
+        }
+
+  #secondary_menu_right {
+    padding-right:130px;
+    }
+    }
+
+    @media only screen and (max-width: 790px) {
+    
+    #master_header {
+    height:183px !important; 
+    }
+        #mobile_nav {
+        padding-top:130px !important;
+        }
+
+    }
+
+     @media only screen and (max-width: 415px) {
+    
+    #master_header {
+    height:200px !important; 
+    }
+
+    #mobile_nav {
+        padding-top:150px !important;
+        }
+
+   #secondary_menu_right {
+    padding-left:30px !important;
+    }}
+
+ @media only screen and (max-width: 1100px) {
+        #contact_us {
+            text-align: center;
+        }}
+
+  @media only screen and (max-width: 1100px) {
+         #secondary_menu_right {
+    padding-left:100px;
+    }
+    }
+  #login:hover #login1{
+
+      display:block;
+  }
+
+  #ctl00_LinkButton1{
+    display:inline-block!important;
+  }
+
+</style>
+
+ <script type="text/javascript">
+
+ $(window).scroll(function () {
+     console.log($(window).scrollTop());
+     if ($(window).scrollTop() > 0 ) {
+         $("#sec_header").css('margin-top', '-60' - $(window).scrollTop() / 10050);
+         $(".c-navbar").css('margin-top', '-30' -$(window).scrollTop() / 10050);
+     }
+     else {
+         $("#sec_header").css("margin-top", "0");
+         $(".c-navbar").css('margin-top', '0');
+     }
+ });
+ </script>
+    
+<link href="/WebResource.axd?d=urZiQe1zxbpLHk-vrNb-vGNATivO-MZfihwAouL6KA69hD7rxwjqCiN-wnQPYCDL6oqPTNJkK-6ojUoIgszko_8iaFHgL10WowpvhR8YT5Ni_Hu2gAh9grCR8CZftlb40mV8X596_1PWD-AhWTtkC8ueAH1DA6s300g5VSz-50B6zRXt0&amp;t=635389458460000000" type="text/css" rel="stylesheet" /></head>
+<body class="c-layout-header-fixed c-layout-header-mobile-fixed c-layout-header-fullscreen c-page-on-scroll">
+  
+    
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-M22PRC"
+            height="0" width="0" style="display: none; visibility: hidden"></iframe>
+    </noscript>
+    <script>(function (w, d, s, l, i) {
+    w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+        new Date().getTime(), event: 'gtm.js'
+    }); var f = d.getElementsByTagName(s)[0],
+    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+    '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-M22PRC');</script>
+    
+    <form name="aspnetForm" method="post" action="/assessment/assessment-personal-details-psychometric.aspx?signup=1" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm" style="margin-bottom: 0px;">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="hO3Gx8XKK0q2CHFr0NFoxsNzcaUOogi4xQwzzlajcaZKEvH04FUOkS9wzkWydiBNxUp6GZlqx4G5JjISGiEAODht+Y4m+Bk2EVFFbfjtkosnHozfCE4pnEbI0quSlZ70hrLyyczgUSm5uMqLR/0MQUQnyqVdQxClh0M/0tSxjVoVaco3Z4iHRHI5UCuqVXHjZ6WRTIp0G1SU6XOVwuy12Kp3Hqjkm5HwZmbCvlt/w3nZn7IVfBc+rl0VS+Oe/C/veXzbi5IYgN5HhqO1S3U1XK0QGcKkONABb5lxDrNL+72qiyiCC+PZ2s9l/ndoFpzrQ55C0uNzbtNiofFD7ihw5dw2AGjlvo6rmKj3S92yMMsgr5fO8/bVxK9RMWZy/Wy6w/HYTBV1VUBCbyMKVv1rK18IC/LFk3RiPu5vsjEtudGJ/eU+KvFJeM+9yD89JMieHbBGaQ==" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=zgznpya2HQt1FBynULbayteGRLQAxoXIZmpGdwwiMaRAQkQ3NJZ2EPq8yfdXcfNYfl2EhDDxPD-4maNht__qLqzat-o1&amp;t=636284280552661246" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=AtmUlSLa133PbfAG8-quv3WEw2uZcucOxLQkcGgCUBqm77-Oi5Vq_0BDMc39ZWMO9xloUL5g0O1kO_TjL642WfgRDJ7RJw3-MDyntzzVza6Bt_Q1iMn9BGkLb84sDyQiSLRvaXU20RSosBRfiGoznp6g4Xg1&amp;t=ffffffffeed36f95" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=rTMDUK8-dYxmpy939YkGFT2kwnLxCJSgOSJflUfAp6ayLLbdSniyu4kFXCx8m8e_AEKhkwpS5I6GnAKQzh5Ac5zsD-z-7IN8_Y1FWwbvhSCTboZRDWncqMu6x3QK-lQBuiRsV99cqjHae9zsieuZCZDUchc1&amp;t=ffffffffcce8aaf2" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=rV-_wR_qkDjKFQQDx4OHTWMSKNdD2ebSa4lvxqomDg6klogDNQfl1g_SEU2WACLqS8y3PDx6ghlLQPCek6loxRmEOmfBsXvnZryGd0oG4n3po_T5Ezq9XciQVn94bex0arsEJLUPkBPMoBZrY_O4N64ZDvzc3_gniLIZAnVPfu9Pwia70&amp;t=ffffffffcce8aaf2" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+null;if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="702AABD2" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="5NVXZ+n1mlQHzJiiR0JitFKBNrwyEhGmKVCOi8IJFuxY9QX0IpqE1FGKFo7U+vx5mAg9gTaA3bnrHuLVdXgfVJVheQYF9yaybWTtEG9dmvmHf9t2OoswQ592jvqS59vzCRuqehTNXVc10ZLRtH2tg1M5Qlc/Tr6sIrTUJeM1iJSXGBEYgzOO5WffuAR7mnqxC3GiEc6D7+rKteKe7Rdbk04bkqrsEaaDSogd1BwChEpVTHJgBx6xtqrvTn4mWHDaNnY/lEsMp14cjx9dQMUcdoDUmcW6Vobk+g4V/RJyAMLBrST/vtFKZwAOOCoFNnGHYUxVCOGI7wn+PDTew0pmxVcfMN8WihjjMSJBfk9+mstr5atgy7mGy6kJoCHdzSqSyK2p6NHst7AEoz1rk+F1WAWbTFyrZzhgN/VWQ382OCEiDcQx4YZhYUjVBRNVbRYtM6TY4Q==" />
+</div>
+        
+ 
+        <div class="modal fade" tabindex="-1" role="dialog" id="mobilemodal" data-backdrop="static" aria-labelledby="Mobilenumbermodel">
+            <div class="modal-dialog modal-sm" style="margin-top: 100px;">
+                <div class="modal-content">
+                    <div class="modal-header">
+
+                        <h4 class="modal-title c-center c-font-uppercase">Add phone</h4>
+                    </div>
+                    <div class="modal-body">
+                        <div class="row c-center" style="padding: 20px 0px;">
+                            <div class="col-md-12">
+                                <img src="/images-MCG/smart-phone.png" width="100" />
+                            </div>
+                        </div>
+                        <p class="c-font-15 c-center c-font-slim">Please enter your Mobile Number and Education Level to proceed.</p>
+                        <div class="form-group" style="margin-bottom: 0px;">
+                            <div class="input-group c-square">
+                                <span class="input-group-addon" id="basic-addon1">+91</span>
+                                <input name="ctl00$mobid" type="tel" id="ctl00_mobid" class="form-control c-square c-theme" maxlength="10" placeholder="Ex: 9876543210" causesvalidation="True" />
+                            </div>
+                        </div>
+                        <span id="ctl00_RequiredFieldValidator11" style="color:Red;font-size:Small;display:none;">Enter Mobile Number</span>
+                        <span id="ctl00_RegularExpressionValidator11" style="color:Red;font-size:Small;display:none;">Enter Correct Mobile Number</span>
+                        <div class="form-group" style="margin-bottom: 0px; margin-top: 10px">
+                            <select name="ctl00$txtEducation" id="ctl00_txtEducation" class="form-control c-square c-theme">
+	<option selected="selected" value="Highest Education Level">Select Highest Education Level</option>
+	<option value="6th - 9th Class">6th - 9th Class</option>
+	<option value="10th Class">10th Class</option>
+	<option value="11th Class">11th Class</option>
+	<option value="12th Class">12th Class</option>
+	<option value="Graduate Degree / Diploma">Graduate Degree / Diploma</option>
+	<option value="Postgraduate Degree">Postgraduate Degree</option>
+	<option value="Working Professional">Working Professional</option>
+
+</select>
+                            
+                            <span id="ctl00_RequiredFieldValidator6" title="Write your highest education level" style="color:Red;font-size:Small;display:none;">Write your highest education level</span>
+                        </div>
+                    </div>
+                    <div class="modal-footer c-center">
+
+                        <input type="submit" name="ctl00$mobileSubmit" value="Submit" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$mobileSubmit&quot;, &quot;&quot;, true, &quot;mobilevalid&quot;, &quot;&quot;, false, false))" id="ctl00_mobileSubmit" class="btn c-theme-btn c-btn-border-2x c-btn-square c-btn-bold c-btn-uppercase" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <header id="master_header" class="c-layout-header c-layout-header-4 c-layout-header-default-mobile c-header-transparent-dark" data-minimize-offset="80" style="height: 83px;">
+
+            <div id="sec_header" class="navbar navbar-inverse navbar-fixed-top" style="background-color:#32c5d2">                                  
+                <div id="contact_us">
+    <ul class="nav navbar-nav navbar-left">
+      <li><a href="#" style="color:#ffffff;font-size:12px">Call Us Today! +91-8800442358</a></li>   
+   </ul>
+   </div>
+                <div id="secondary_menu_right">
+    <ul class="nav navbar-nav navbar-right" >
+      <li class="c-menu-type-classic"><a id="Float_right" href="https://www.careerguide.com" style="color:#ffffff;font-size:12px">Home</a></li>
+      <li class="c-menu-type-classic"><a id="Float_right" href="https://www.careerguide.com/student" style="color:#ffffff;font-size:12px">Students</a></li>
+      <li class="c-menu-type-classic"><a id="Float_right" href="https://www.careerguide.com/parent" style="color:#ffffff;font-size:12px">Parents</a></li>
+        <li class="c-menu-type-classic"><a id="Float_right" href="https://www.careerguide.com/counsellor" style="color:#ffffff;font-size:12px">Counsellors</a></li>
+        <li class="c-menu-type-classic"><a id="Float_right" href="https://www.careerguide.com/career-counselling-services-for-school" style="color:#ffffff;font-size:12px">Schools</a></li>
+                                
+                                
+        <li  class="c-menu-type-classic" style="padding-top:10px">
+                                    <a id="hrf_master_sign_in" href="javascript:;" onclick="callloginpopup('cancel','login',window.location.href);" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-sm c-btn-border-1x c-btn-black c-btn-circle c-btn-uppercase c-btn-sbold" style="display:inline-block!important;color:#ffffff;"><i class="icon-user"></i>Sign In</a>
+                                </li>
+        <script>v_m_isLogin = 0;</script>
+                                
+                                
+    </ul>
+</div>
+   </div>
+  
+            <div class="c-navbar" style="padding-top: 35px;" id="mobile_nav">
+                <div class="container-fluid">
+                    <div class="c-navbar-wrapper clearfix" >
+                        <div class="c-brand c-pull-left">
+                            <a href="/" class="c-logo" title="CareerGuide.com">
+                                <img src="/images-mcg/careerguide.com-logo.png" alt="Career Guide.com Logo" class="c-desktop-logo">
+                                <img src="/images-mcg/careerguide.com-logo.png" alt="Career Guide.com Inverse Logo" class="c-desktop-logo-inverse">
+                                <img src="/images-mcg/careerguide.com-logo.png" alt="Career Guide.com Mobile Logo" class="c-mobile-logo">
+                            </a>
+                            
+                            <button class="c-hor-nav-toggler" type="button" data-target=".c-mega-menu">
+                                <span class="c-line"></span>
+                                <span class="c-line"></span>
+                                <span class="c-line"></span>
+                            </button>
+                            
+                            <button class="c-topbar-toggler" type="button">
+                                <i class="fa fa-ellipsis-v"></i>
+                            </button>
+                            
+                        </div>
+
+                        
+
+
+                        <nav class="c-mega-menu c-pull-right c-mega-menu-dark c-mega-menu-dark-mobile c-theme c-fonts-uppercase c-fonts-bold">
+                            <ul class="nav navbar-nav c-theme-nav">
+                                
+
+                                 
+
+                                <li class="c-menu-type-classic">
+                                    <a href="#" class="c-link dropdown-toggle m-header-font-weight" title="Education Levels" style="padding-right: 240px;"><i class="fa fa-chevron-circle-down" style="color:#32c5d2;font-size:22px"></i></a>
+                                    <ul class="dropdown-menu c-menu-type-classic c-pull-left">
+                                        <li>
+                                            <a href="https://www.careerguide.com/career-counselling-for-9th-class" style="color: #ebedf2;" title="9th">9th</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.careerguide.com/career-counselling-for-10th-class" style="color: #ebedf2;" title="10th">10th</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.careerguide.com/career-counselling-for-11th-class" title="11th" style="color: #ebedf2;">11th</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.careerguide.com/career-counselling-for-12th-class" style="color: #ebedf2;" title="12th">12th</a>
+                                        </li>
+                                         <li>
+                                            <a href="https://www.careerguide.com/career-counselling-services-for-b-com" style="color: #ebedf2;" title="B.Com">B.Com</a>
+                                        </li>
+                                         <li>
+                                            <a href="https://www.careerguide.com/career-counselling-services-for-b-sc" style="color: #ebedf2;" title="B.Sc">B.Sc</a>
+                                        </li>
+                                         <li>
+                                            <a href="https://www.careerguide.com/career-counselling-services-for-b-tech" style="color: #ebedf2;" title="B.Tech">B.Tech</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.careerguide.com/career-counselling-services-for-b-a" style="color: #ebedf2;" title="B.A">B.A</a>
+                                        </li>
+                                         <li>
+                                            <a href="https://www.careerguide.com/career-counselling-services-for-mba" style="color: #ebedf2;" title="MBA">MBA</a>
+                                        </li>
+                                         <li>
+                                            <a href="https://www.careerguide.com/career-counselling-services-for-masters" style="color: #ebedf2;" title="Masters">Masters</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.careerguide.com/career-counselling-services-for-working-professionals" style="color: #ebedf2;" title="Working">Working</a>
+                                        </li>
+
+                                    </ul>
+                                </li>
+
+
+                               <li class="c-menu-type-classic">
+                                    <a href="#" class="c-link dropdown-toggle m-header-font-weight" title="Ask & Answer">Ask & Answer</a>
+                                    <ul class="dropdown-menu c-menu-type-classic c-pull-left">
+                                        <li>
+                                            <a href="https://www.careerguide.com/talk-to-career-counsellor-on-phone" title="Ask on Phone" style="color: #ebedf2;">Ask on Phone</a>
+                                        </li>
+                                        <li>
+                                            <a href="/ask" style="color: #ebedf2;" title="Ask on Forum">Ask on Forum</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://tawk.to/chat/59646cfb6edc1c10b0345613/default/?$_tawk_popout=true&$_tawk_sk=5a25364106b582d4b4eba5a1&$_tawk_tk=1087aa84c6412c503e6df3aec07c57ab&v=570" style="color: #ebedf2;" title="Ask on Chat">Ask on Chat</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.careerguide.com/ask" style="color: #ebedf2;" title="Expert Q&A">Expert Q&A</a>
+                                        </li>
+                                        
+                                    </ul>
+                                </li>
+
+                                <li class="c-menu-type-classic">
+                                    <a href="https://www.careerguide.com/career-options" class="c-link dropdown-toggle m-header-font-weight" title="Institutes of India">Career Options</a>
+                                   
+                                </li>
+
+                                <li class="c-menu-type-classic">
+                                    <a href="/psychometric-career-assessment" class="c-link dropdown-toggle m-header-font-weight" title="Career Tests">Career Tests<span class="c-arrow c-toggler"></span></a>
+                                    <ul class="dropdown-menu c-menu-type-classic c-pull-left">
+                                        <li>
+                                            <a href="/know-your-ideal-career" style="color: #ebedf2;" title="Ideal Career Test&trade;">Ideal Career Test&trade;</a>
+                                        </li>
+                                        <li>
+                                            <a href="/know-your-right-vocational-career" style="color: #ebedf2;" title="Skill Based Career Test">Skill Based Career Test</a>
+                                        </li>
+                                        <li>
+                                            <a href="/what-to-do-after-10th" title="Stream Selector&trade; Test" style="color: #ebedf2;">Stream Selector&trade; Test</a>
+                                        </li>
+                                        <li>
+                                            <a href="/how-to-choose-right-engineering-branch" style="color: #ebedf2;" title="Engineering Branch Selector Test&trade;">Engineering Branch Selector&trade;</a>
+                                        </li>
+                                         <li>
+                                            <a href="/careers-in-humanities" style="color: #ebedf2;" title="Humanities Career Selector Test&trade;">Humanities Career Selector&trade;</a>
+                                        </li>
+                                         <li>
+                                            <a href="/careers-in-commerce" style="color: #ebedf2;" title="Commerce Career Selector Test&trade;">Commerce Career Selector&trade;</a>
+                                        </li>
+                                         <li>
+                                            <a href="/know-your-professional-skills-index" style="color: #ebedf2;" title="Professional Skills Index&trade;">Professional Skill Index&trade;</a>
+                                        </li>
+                                        <li>
+                                            <a href="/know-your-professional-educator-skills-index" style="color: #ebedf2;" title="Educator Professional Skill Index&trade;">Educator Professional Skill Index&trade;</a>
+                                        </li>
+
+                                    </ul>
+                                </li>
+                                
+                                <li class="c-menu-type-classic">
+                                    <a href="/blog/" class="c-link dropdown-toggle m-header-font-weight" title="Blog">Blog</a>
+                                    <ul class="dropdown-menu c-menu-type-classic c-pull-left">
+                                        <li>
+                                            <a href="/blog/impact-stories" title="Impact Stories" style="color: #ebedf2;">Impact Stories</a>
+                                        </li>
+                                        <li>
+                                            <a href="/blog/exclusive-interviews" style="color: #ebedf2;" title="Exclusive Interviews">Exclusive Interviews</a>
+                                        </li>
+                                        <li>
+                                            <a href="/blog/inspirational-stories" style="color: #ebedf2;" title="Inspirational Stories">Inspirational Stories</a>
+                                        </li>
+                                        <li>
+                                            <a href="/blog/viewpoint" style="color: #ebedf2;" title="Viewpoint">Viewpoint</a>
+                                        </li>
+                                    </ul>
+                                </li>
+
+                                <li class="c-menu-type-classic">
+                                    <a href="#" class="c-link dropdown-toggle m-header-font-weight" title="Admissions">Admissions</a>
+                                    <ul class="dropdown-menu c-menu-type-classic c-pull-left">
+                                        <li>
+                                            <a href="https://www.careerguide.com/institutes" title="Study in India" style="color: #ebedf2;">Study in India</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.careerguide.com/abroad-studies" style="color: #ebedf2;" title="Study Abroad">Study Abroad</a>
+                                        </li>
+                                   </ul>
+                                </li>
+
+                                 <li class="c-menu-type-classic">
+                                    <a href="https://courses.careerguide.com/" class="c-link dropdown-toggle m-header-font-weight" title="Courses">Courses</a>
+                                </li>
+
+                                <li class="c-menu-type-classic">
+                                    <a href="/career-experts-in-india" class="c-link dropdown-toggle m-header-font-weight" title="Career Counsellors">Career Counsellors</a>
+                                </li>
+
+                               
+                            </ul>
+                        </nav>
+
+                    </div>
+                </div>
+            </div>
+        </header>
+        
+
+        <div id='loginsignupform' style="display: none;"></div>
+        <div id='dvopencallpopup' style="display: none;"></div>
+        <div class="c-layout-page" style="margin-top: 65px;">
+            
+
+
+          
+
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $(".callstudentactive").click(function () {
+                var aUrl = $(this).attr('data-href');
+                $.fancybox({ 'width': 600, 'height': '550', 'autoSize': true, 'fixed': false, 'scrolling': 'no', 'autoScale': true, 'transitionIn': 'fade', helpers: { overlay: { locked: true, closeClick: false, css: { 'background-color': '#777', 'opacity': '.7', 'overflow': 'hidden' } } }, 'transitionOut': 'fade', 'type': 'iframe', afterClose: function () { parent.location.reload(true); }, 'href': aUrl })
+            });
+        });
+    </script>
+
+            
+    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ctContentMiddle$ScriptManager1', 'aspnetForm', ['tctl00$ctContentMiddle$updPnl',''], ['ctl00$ctContentMiddle$lnkSubmit',''], [], 90, 'ctl00');
+//]]>
+</script>
+
+
+
+    <div id="ctl00_ctContentMiddle_updPnl">
+	
+            <div style="clear: both;">
+            </div>
+            <div class="row" style="overflow: hidden; text-align: center;">
+                <div class="col-md-12">
+
+                    <div class="c-media">
+          <a href="javascript:void(0)" onclick="location.reload(true);">
+          <img src="/images-mcg/SkillPersonalDetails.png" style="margin-top:0px;" alt="Skill Assessment"/>
+            </a>
+                    </div>
+                </div>
+            </div>
+            <div class="mcg_roundedBG" style="margin-bottom: 10px;display:none;">
+                <div class="new_assessment_left_area">
+                    <div class="new_assessment_heading">
+                        Great Start!</div>
+                    <div class="new_assessment_sub_heading">
+                        Write some quick information about you. Your report will be based on these details.</div>
+                  
+                    <div style="width: 694px; float: left; text-align: right; padding-top: 20px; border-top: none;
+                        border-radius: 0px 0px 5px 5px; -moz-border-radius: 0px 0px 5px 5px; -webkit-border-radius: 0px 0px 5px 5px;">
+                        <div id="ctl00_ctContentMiddle_UpdateProgress2" style="display:none;">
+		
+                                <span class="progress_txt">Processing, please wait</span>
+                                <img src="/Images-MCG/progress.gif" /><span
+                                    class="progress_txt">...</span>
+                            
+	</div>
+                        <div>
+                            <input type="submit" name="ctl00$ctContentMiddle$lnkSubmit" value="Next Â»" onclick="kmtrack();WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctContentMiddle$lnkSubmit&quot;, &quot;&quot;, true, &quot;CareerProfiling&quot;, &quot;&quot;, false, false))" id="ctl00_ctContentMiddle_lnkSubmit" class="bluebtn bluebtnFnt24" />
+                                <spanid="spnShowBubble"></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="new_assessment_right_area">
+                    <div class="new_assessment_report">
+                        
+                        <div class="new_assessment_report_img">
+                            <img src="/Images-MCG/hr-skills-assessment.png" /></div>
+                    </div>
+                </div>
+                <div>
+                    <div style="clear: both;">
+                    </div>
+                    <!--End: Body Rounded box-->
+                </div>
+            </div>
+        
+</div>
+    <div id="divContactNo" style="display:none;background-color:#ffffff;width:500px;height:200px;">
+    <div style="float:right;margin-right:-8px;margin-top:-8px;">
+    </div>
+    <div style="text-align:center;">
+      <div style="text-align:center;margin-top:12px;">
+        <span style="font-size:20px;font-weight:200"><b>Never Miss any Update from Us!</b></span>
+      </div>
+      <div style="text-align:center;">
+        <div style="text-align:center;margin-top:12px;">
+          <span>Enter your Mobile number:</span><br /><br /> 
+          <input name="ctl00$ctContentMiddle$txtContactNo" type="text" maxlength="11" id="ctl00_ctContentMiddle_txtContactNo" onkeypress="javascript:return clickButton(event,&#39;ctl00_ctContentMiddle_aSubmit&#39;)" style="border-color:#000000;border-width:1px;border-style:Solid;" /><br />
+          <span id="ctl00_ctContentMiddle_rfvContactNo" style="color:Red;display:none;">Please enter correct Mobile No.</span>
+          <span id="ctl00_ctContentMiddle_RegtxtContactNo" style="color:Red;font-size:9pt;display:none;">Please enter correct Mobile No.</span><br /><br />
+          <a id="ctl00_ctContentMiddle_aSubmit" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctContentMiddle$aSubmit&quot;, &quot;&quot;, true, &quot;update&quot;, &quot;&quot;, false, true))"><span style="width:200px;background-color:#5486B5;color:#fff;padding: 5px 57px 5px 57px;">Update</span></a> 
+        </div>
+      </div>
+    </div>    
+ </div>
+    <div id="dvupdate" style="display:none;">
+            <input name="ctl00$ctContentMiddle$txtsql" type="text" id="ctl00_ctContentMiddle_txtsql" /><br />
+            <input type="submit" name="ctl00$ctContentMiddle$btnupdate" value="update" id="ctl00_ctContentMiddle_btnupdate" />
+        </div>
+    <input type="hidden" name="ctl00$ctContentMiddle$hdnContact" id="ctl00_ctContentMiddle_hdnContact" />
+
+    <div id="tip_msgs_0_1" style="display: none;" class="bubble_msg">
+        <pre class="tip">Good Job! Now Click on Next button</pre>
+    </div>
+  
+
+  <script>
+    Sys.WebForms.PageRequestManager.getInstance().add_initializeRequest(CheckStatus);
+    function CheckStatus(sender, arg) {
+      var postBackElement = arg.get_postBackElement();
+      var prm = Sys.WebForms.PageRequestManager.getInstance();
+      var v_but = 'ctl00_ctContentMiddle_lnkSubmit';
+          //alert(but);            
+            if (prm.get_isInAsyncPostBack() && postBackElement.id == v_but) {
+              arg.set_cancel(true);
+              document.getElementById('ctl00_ctContentMiddle_lnkSubmit').disabled = true;
+              //alert(but);
+                v_but.style.visibility = 'hidden';
+              }
+            }
+    </script>
+
+  <script type="text/javascript">
+    $('#ctl00_ctContentMiddle_aSubmit').click(function () { var sContact = $('#ctl00_ctContentMiddle_txtContactNo').val(); $('#ctl00_ctContentMiddle_hdnContact').val(sContact); });
+    function clickButton(e, t) { var n = e ? e : window.event; var r = document.getElementById(t); if (r) { if (n.keyCode == 13) { r.click(); return false } } }
+    function kmtrack() {
+      //Track Event
+      _gaq.push(['_trackEvent', 'Free Assessment', 'Start', 'Skill']);
+    }
+  </script>
+    
+
+        </div>
+        
+        <footer id="master_footer" class="c-layout-footer c-layout-footer-3 c-bg-dark">
+            <div class="c-prefooter" style="padding-top:25px;">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6 col-xs-12 col-sm:12">
+                            <div class="c-container c-first" style="margin-bottom: 10px;">
+
+
+
+
+                                <div class="m-footer-show">
+                                    <div style="text-align: center; font-size:22px;"><a href="tel:91-8800442358" class="c-font-white c-font-bold"><i class="icon-call-end c-theme-font"></i>&nbsp; 91-8800442358</a></div>
+                                    <ul style="padding: 5px;">
+
+                                        <li class="m-horizontal-nav-bar c-font-bold">
+
+                                            <a href="/about" class="c-font-white" style="color: #5c6873;" title="About">About</a>
+                                        </li>
+
+                                        <li class="m-horizontal-nav-bar c-font-bold">
+
+                                            <a href="/news" class="c-font-white" style="color: #5c6873;" title="News">News</a>
+                                        </li>
+
+
+                                        <li class="m-horizontal-nav-bar c-font-bold">
+
+                                            <a href="/contact" class="c-font-white" style="color: #5c6873;" title="Contact">Contact</a>
+                                        </li>
+
+                                        <li class="m-horizontal-nav-bar c-font-bold">
+
+                                            <a href="/how-to-become-a-career-expert" class="c-font-white" style="color: #5c6873;" title="Be an Expert">Be an Expert</a>
+                                        </li>
+
+                                        <li class="m-horizontal-nav-bar c-font-bold">
+
+                                            <a href="/blog/" class="c-font-white" style="color: #5c6873;" title="Blog">Blog</a>
+                                        </li>
+                                        <li class="m-horizontal-nav-bar c-font-bold">
+
+                                            <a href="/psychometric-career-assessment" class="c-font-white c-font-bold" style="color: #5c6873;" title="Psychometric Test">Psychometric Test</a>
+                                        </li>
+                                        <li class="m-horizontal-nav-bar c-font-bold">
+
+                                            <a href="/career-experts-in-india" class="c-font-white c-font-bold" style="color: #5c6873;" title="Our experts">Our Experts</a>
+                                        </li>
+                                        <li class="m-horizontal-nav-bar c-font-bold">
+
+                                            <a href="/pricing" class="c-font-white c-font-bold" style="color: #5c6873;" title="Pricing">Pricing</a>
+                                        </li>     
+
+                                    </ul>
+                                </div>
+
+
+
+                               <div class="row c-font-17 c-reset m-footer-hide">
+                                    <div class="col-md-3 c-reset col-xs-4 col-sm-4">
+                                        <ul class="c-links " style="padding: 2px;">
+
+                                            <li style="border: none; padding: 0px;">
+                                                <a href="/about" title="About" class="c-font-white">About</a>
+                                            </li>
+                                            <li style="border: none; padding: 0px;">
+                                                <a href="/news" title="News" class="c-font-white">News</a>
+                                            </li>
+                                            <li style="padding: 0px; border: none">
+                                                <a href="/blog/" title="Blog" class="c-font-white">Blog</a>
+                                            </li>
+                                            <li style="border: none; padding: 0px;">
+                                                <a href="/contact" title="Contact" class=" c-font-white ">Contact</a>
+                                            </li>
+                                            <li style="border: none; padding: 0px;">
+                                                <a href="/terms" title="Terms and Conditions" class="c-font-white">Terms</a>
+                                            </li>
+                                            <li style="border: none; padding: 0px;">
+                                                <a href="/privacy" title="Privacy Policy" class="c-font-white">Privacy Policy</a>
+                                            </li>
+                                            <li style="padding: 0px; border: none">
+                                                <a href="/terms#refund" title="Refund & Cancellation" class="c-font-white">Refund & Cancellation</a>
+                                            </li>
+                                            <li style="border: none; padding: 0px;">
+                                                <a href="/sitemap.html" title="Sitemap" class="c-font-white">Sitemap</a>
+                                            </li>
+                                            <li style="border: none; padding: 0px;">
+                                                <a href="/partners" title="Sitemap" class="c-font-white">Partners</a>
+                                            </li>
+
+
+                                        </ul>
+                                    </div>
+
+                                   
+
+                                    <div class="col-md-9 col-xs-8 col-sm-8" style="padding-left:0px;padding-right:0px;">
+
+
+                                        <ul class="c-links col-md-6 col-sm-6 col-xs-6" style="padding: 5px;">
+                                            <li style="padding: 0px; border: none">
+                                                <a href="/how-to-become-a-career-expert" title="Be an Expert" class="c-font-white">Be an Expert</a>
+                                            </li>
+                                            <li style="border: none; padding: 0px;">
+                                                <a href="/ask" title="Knowledge Base" class="c-font-white">Knowledge base</a>
+                                            </li>
+                                            <li style="padding: 0px; border: none">
+                                                <a href="/blog/impact-stories" title="Impact Stories" class="c-font-white">Impact Stories</a>
+                                            </li>
+                                            <li style="padding: 0px; border: none">
+                                                <a href="/blog/exclusive-interviews" title="Exclusive Interviews" class="c-font-white">Exclusive Interviews</a>
+                                            </li>
+                                            <li style="padding: 0px; border: none">
+                                                <a href="/blog/inspirational-stories" title="Inspirational stories" class="c-font-white">Inspirational stories</a>
+                                            </li>
+                                            <li style="padding: 0px; border: none">
+                                                <a href="/blog/viewpoint" title="View Point" class="c-font-white">View Point</a>
+                                            </li>
+                                            <li style="padding: 0px; border: none">
+                                                <a href="/career-experts-in-india" title=" Career Experts in India" class="c-font-white">Our Experts </a>
+                                            </li>
+                                            <li style="padding: 0px; border: none">
+                                                <a href="https://www.careerguide.com/counsellor-jobs/" title="Career Counsellor Jobs" class="c-font-white">Career Counsellor Jobs</a>
+                                            </li>
+                                            <li style="padding: 0px; border: none">
+                                                <a href="https://www.careerguide.com/counsellor-jobs/post-career-counsellor-jobs" title="Post Career Counsellor Jobs" class="c-font-white">Post Career Counsellor Jobs</a>
+                                            </li>
+                                            
+                                            <li style="padding: 0px; border: none">
+                                                <a href="/pricing" title="Pricing" class="c-font-white">Pricing</a>
+                                            </li>
+
+                                        </ul>
+
+                                        <ul class="c-links col-md-6 col-xs-5 col-sm-6" style="padding: 5px;">
+                                            <li style="padding: 0px; border: none">
+                                                <a href="/psychometric-career-assessment" title="Psychometric Career Assessment" class="c-font-white">Psychometric Career Assessment</a>
+                                            </li>
+
+                                            <li style="padding: 0px; border: none">
+                                                <a href="/what-to-do-after-10th" title="What to do after 10th" class="c-font-white">What to do after 10th</a>
+                                            </li>
+                                            <li style="padding: 0px; border: none">
+                                                <a href="/how-to-choose-right-engineering-branch" title="Choose Right Engineering Branch After 12th" class="c-font-white">Choose Right Engineering Branch After 12th</a>
+                                            </li>
+                                            <li style="padding: 0px; border: none">
+                                                <a href="/know-your-ideal-career" title="Ideal Career Test" class="c-font-white">Ideal Career Test</a>
+                                            </li>
+                                            <li style="padding: 0px; border: none">
+                                                <a href="/know-your-right-vocational-career" title="Psychometric Assessment for Vocational Careers" class="c-font-white">Psychometric Assessment for Vocational Careers</a>
+                                            </li>
+                                             <li style="padding: 0px; border: none">
+                                                <a href="/careers-in-commerce" title="Commerce Career Selector Test" class="c-font-white">Commerce Career Selector</a>
+                                            </li>
+                                             <li style="padding: 0px; border: none">
+                                                <a href="/careers-in-humanities" title="Humanities Career Selector Test" class="c-font-white">Humanities Career Selector</a>
+                                            </li>
+                                             <li style="padding: 0px; border: none">
+                                                <a href="/know-your-professional-skills-index" title="Professional Skills Index" class="c-font-white">Professional Skill Index</a>
+                                            </li>
+                                            <li style="padding: 0px; border: none">
+                                                <a href="/know-your-professional-educator-skills-index" title="Educator Professional Skill Index" class="c-font-white">Educator Professional Skill Indexâ„¢</a>
+                                            </li>
+                                        </ul>
+
+                                       </div>
+                                     
+                                </div>
+                            </div>
+
+                        </div>
+
+                        <div class="col-md-6 " style="padding-left: 0px;padding-right: 0px;">
+                         <div class="col-md-5 m-footer-hide" >
+                                        <ul class="c-links " style="padding: 5px;list-style: none;">
+
+                                            <li style="border: none; padding: 0px;">
+                                                <a href="/competitive-exam-calendar" title="Competitive Exam Calendars" class="c-font-white">Competitive Exam Calendars</a>
+                                            </li>
+                                             <li style="padding: 0px; border: none">
+                                                <a href="/engineering-entrance-exam-calendar" title="Engineering Entrance Exam" class="c-font-white">Engineering Entrance Exam</a>
+                                            </li>
+                                            <li style="border: none; padding: 0px;">
+                                                <a href="/medical-entrance-exam-calendar" title="Medical Entrance Exam" class="c-font-white">Medical Entrance Exam</a>
+                                            </li>
+                                              <li style="border: none; padding: 0px;">
+                                                <a href="/management-entrance-exam-calendar" title="Management Entrance Exam" class=" c-font-white ">Management Entrance Exam</a>
+                                            </li>
+                                          
+                                           <li style="border: none; padding: 0px;">
+                                                <a href="/law-entrance-exam-calendar" title="Law Entrance Exam" class="c-font-white">Law Entrance Exam</a>
+                                            </li>
+                                           
+                                            <li style="border: none; padding: 0px;">
+                                                <a href="/design-entrance-exam-calendar" title="Design Entrance Exam" class="c-font-white">Design Entrance Exam</a>
+                                            </li>
+                                           
+                                             <li style="border: none; padding: 0px;">
+                                                <a href="/mass-comm-entrance-exam-calendar" title="Mass Comm. Entrance Exam" class="c-font-white">Mass Comm. Entrance Exam</a>
+                                            </li>
+                                            <li style="border: none; padding: 0px;">
+                                                <a href="/tourism-entrance-exam-calendar" title="Tourism and Hotel Management Entrance Exam" class="c-font-white">Tourism and Hotel Management Entrance Exam</a>
+                                            </li>
+                                             <li style="border: none; padding: 0px;">
+                                                <a href="https://courses.careerguide.com" title="Online Courses" class="c-font-white">Online Courses</a>
+                                            </li>
+                                            <li style="border: none; padding: 0px;">
+                                                <a href="http://www.credila.com/apply-for-loan-partner.html?chear=Partner&cspecify=E1106140001" title="Education Loan" class="c-font-white" target="_blank">Education Loan</a>
+                                            </li>
+                                           
+                                        </ul>
+                                    </div>
+
+                      <div class="col-md-4 m-footer-hide" >
+                                        <ul class="c-links " style="padding: 5px;list-style: none;">
+
+                                            <li style="border: none; padding: 0px;">
+                                                <a href="/career-counselling-services-for-school" title="Career Counselling Services For school" class="c-font-white">Career Counselling Services For school</a>
+                                            </li>
+                                             <li style="padding: 0px; border: none">
+                                                <a href="/career-counselling-services-for-9th-class" title="Career Counselling Services For 9th Class" class="c-font-white">Career Counselling Services For 9th Class</a>
+                                            </li>
+                                            <li style="border: none; padding: 0px;">
+                                                <a href="/career-counselling-services-for-10th-class" title="Career Counselling Services For 10th Class" class="c-font-white">Career Counselling Services For 10th Class</a>
+                                            </li>
+                                              <li style="border: none; padding: 0px;">
+                                                <a href="/career-counselling-services-for-11th-class" title="Career Counselling Services For 11th Class" class=" c-font-white ">Career Counselling Services For 11th Class</a>
+                                            </li>
+                                          
+                                           <li style="border: none; padding: 0px;">
+                                                <a href="/career-counselling-services-for-12th-class" title="Career Counselling Services For 12th Class" class="c-font-white">Career Counselling Services For 12th Class</a>
+                                            </li>
+                                           
+                                        </ul>
+                                    </div>
+                 <div class="col-md-3 m-footer-hide" style="padding-left: 0px;padding-right: 0px;">
+                                        <ul class="c-links " style="padding: 5px;list-style: none;">
+                                             <li style="border: none; padding: 0px;">
+                                                <a href="https://www.careerguide.com/abroad-studies" title="Study Abroad" class="c-font-white">Study Abroad</a>
+                                            </li>
+                                             <li style="padding: 0px; border: none">
+                                                <a href="https://www.careerguide.com/study-abroad-in-usa" title="Study in USA" class="c-font-white">Study in USA</a>
+                                            </li>
+                                            <li style="border: none; padding: 0px;">
+                                                <a href="https://www.careerguide.com/study-abroad-in-europe" title="Study in Europe" class="c-font-white">Study in Europe</a>
+                                            </li>
+                                              <li style="border: none; padding: 0px;">
+                                                <a href="https://www.careerguide.com/study-abroad-in-uk" title="Study in UK" class=" c-font-white ">Study in UK</a>
+                                            </li>
+                                          
+                                           <li style="border: none; padding: 0px;">
+                                                <a href="https://www.careerguide.com/study-abroad-in-australia" title="Study in Australia" class="c-font-white">Study in Australia</a>
+                                            </li>
+                                 <li style="border: none; padding: 0px;">
+                                                <a href="https://www.careerguide.com/study-abroad-in-newzealand" title="Study in New Zealand" class="c-font-white">Study in New Zealand</a>
+                                            </li>
+                                 <li style="border: none; padding: 0px;">
+                                                <a href="https://www.careerguide.com/study-abroad-in-singapore" title="Study in Singapore" class="c-font-white">Study in Singapore</a>
+                                            </li>
+                                 <li style="border: none; padding: 0px;">
+                                                <a href="https://www.careerguide.com/study-abroad-in-canada" title="Study in Canada" class="c-font-white">Study in Canada</a>
+                                            </li>
+                                 <li style="border: none; padding: 0px;">
+                                                <a href="https://www.careerguide.com/study-abroad-in-dubai" title="Study in Dubai" class="c-font-white">Study in Dubai</a>
+                                            </li>          
+                                 <li style="border: none; padding: 0px;">
+                                                <a href="https://www.careerguide.com/study-abroad-in-hongkong" title="Study in Hong Kong" class="c-font-white">Study in Hong Kong</a>
+                                            </li>
+                                 <li style="border: none; padding: 0px;">
+                                                <a href="https://www.careerguide.com/study-abroad-in-ireland" title="Study in Ireland" class="c-font-white">Study in Ireland</a>
+                                            </li>
+                                        </ul>  
+                                    </div>        
+                              
+
+</div>
+
+
+                    </div>
+   <div class="col-md-5 c-reset">
+
+                            <div class="c-container c-last" style="margin-bottom: 20px; width: 240px; padding: 5px;">
+                                <h5 class="c-font-uppercase c-font-bold c-font-white c-font-23" title="Let be friend">Let's be Friends</h5>
+                                <ul class="c-socials">
+                                    <li>
+                                        <a href="https://www.facebook.com/CareerGuide2015" rel="nofollow" target="_blank" title="CareerGuide.com Facebook" class="c-font-white"><i class="icon-social-facebook c-bg-grey-1 c-font-grey-2 "></i></a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.twitter.com/_CareerGuide" rel="nofollow" target="_blank" title="CareerGuide.com Twitter"><i class="icon-social-twitter c-bg-grey-1 c-font-grey-2 "></i></a>
+                                    </li>
+                                    <li>
+                                        <a href="https://plus.google.com/+Meracareerguide" rel="nofollow" target="_blank" title="CareerGuide.com Google+"><i class="fa fa-google-plus c-bg-grey-1 c-font-grey-2 "></i></a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.linkedin.com/company/careerguide-com" rel="nofollow" target="_blank" title="CareerGuide.com LinkedIn"><i class="fa fa-linkedin c-bg-grey-1 c-font-grey-2 "></i></a>
+                                    </li>
+                                </ul>
+
+                            </div>
+                       </div> 
+
+
+
+                </div>
+
+          
+
+
+                <div class="container m-footer-hide">
+                    <div class="c-body">
+                        <div class="row c-font-white">
+
+
+                            <div class="col-md-3 c-center">
+                                <a href="/career-experts-in-india" title="Career Experts in India">
+                                    <div class="c-content-title-1">
+                                        <h3 class="c-font-white" style="font-size: 47px; margin: 10px;">
+                                            1105
+                                        </h3>
+                                        <p class="c-font-uppercase" style="font-size: 20px; color: #b2b2b2; margin-top: 15px;">
+                                            Career Experts
+                                        </p>
+                                    </div>
+                                </a>
+                            </div>
+
+                            <div class="col-md-3 c-center">
+                                <a href="/ask" title="Career Topics">
+                                    <div class="c-content-title-1">
+                                        <h3 class="c-font-white" style="font-size: 47px; margin: 10px;">
+                                            551
+                                        </h3>
+                                        <p class="c-font-uppercase" style="margin-top: 15px; color: #b2b2b2; font-size: 20px;">
+                                            Career Topics
+                                        </p>
+                                    </div>
+                                </a>
+                            </div>
+
+
+
+                            <div class="col-md-3 c-center ">
+                                <a href="/ask" title="Career Questions">
+                                    <div class="c-content-title-1">
+                                        <h3 class="c-font-white" style="font-size: 47px; margin: 10px;">
+                                            1,15,076
+                                        </h3>
+                                        <p class="c-font-uppercase" style="margin-top: 15px; color: #b2b2b2; font-size: 20px;">
+                                            Career Questions
+                                        </p>
+                                    </div>
+                                </a>
+                            </div>
+
+                            <div class="col-md-3 c-center">
+                                <a href="/blog/impact-stories" title="Student Impacted By Career Experts">
+                                    <div class="c-content-title-1">
+                                        <h3 class="c-font-white" style="font-size: 47px; margin: 10px;">
+                                            5,31,805
+                                        </h3>
+                                        <p class="c-font-uppercase" style="margin-top: 15px; color: #b2b2b2; font-size: 20px;">
+                                            Students Impacted
+                                        </p>
+                                    </div>
+                                </a>
+                            </div>
+
+
+
+                        </div>
+                    </div>
+                </div>
+                <h4 class="c-font-oswald c-font-18 c-center" style="margin-bottom: 0px">Copyright Â© CareerGuide.com
+                </h4>
+
+            </div>
+
+        </footer>
+        
+        <div class="c-layout-go2top" style="bottom: 40px;">
+            <i class="icon-arrow-up"></i>
+        </div>
+        
+        <script>
+            function openMobileModal() {
+
+                $('#mobilemodal').modal({
+                    keyboard: false,
+                    show: true
+                });
+                setTimeout(function () { $("#ctl00_mobid").focus(); }, 0);
+
+    };
+
+    $('#m-notifications').click(function () {
+        $('.m-alert-ul').toggle();
+    });
+
+    $('#m-notifications_2').click(function () {
+        $('.m-alert-ul_2').toggle();
+    });
+        </script>
+
+
+
+        
+        <style type="text/css">
+          #floating-button{
+  width: 65px;
+  height: 65px;
+  border-radius: 50%;
+  background: #ff5a00;
+  position: fixed;
+  right: 10px;
+  cursor: pointer;
+  box-shadow: 0px 2px 5px #666;
+}
+
+.floating-plus{
+  color: white;
+  position: absolute;
+  top: 0;
+  display: block;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  line-height: 46px;
+  font-size: 25px;
+  font-family: 'Roboto';
+  font-weight: 300;
+  animation: plus-out 0.3s;
+  transition: all 0.3s;
+}
+
+#container-floating{
+  position: fixed;
+  width: 70px;
+  height: 70px;
+  bottom: 30px;
+  right: 30px;
+  z-index: 50px;
+}
+
+            .floating-text {
+               position: absolute;
+    top: 36px;
+    left: 12px;
+    font-size: 12px;
+    width: 40px;
+    line-height: 13px;
+    text-align: center;
+    color:#fff;
+            }
+
+
+
+
+        </style>
+        <div id="container-floating" style="z-index:1000;">
+            <div id="floating-button" style="bottom: 350px;">
+                <a href="/psychometric-career-assessment?frm=floating_icon" title="Take Career Test">
+                    <p class="floating-plus"><i class="fa fa-pie-chart"></i></p>
+                    <p class="floating-text">
+                        Career Test
+                    </p>
+                </a>
+            </div>
+            <div id="floating-button" style="bottom: 270px;">
+                <a href="/talk-to-career-counsellor-on-phone?frm=floating_icon" title="Talk To Career Counsellor">
+                    <p class="floating-plus"><i class="fa fa-phone"></i></p>
+                    <p class="floating-text" style="left: 8px;">
+                        Counsellor Call
+                    </p>
+                </a>
+            </div>
+            <div id="floating-button" style="bottom: 190px;">
+                <a href="/download-e-book-free-contains-list-of-70-new-age-careers?frm=floating_icon" title="Donwload Career E-Book">
+                    <p class="floating-plus"><i class="fa fa-book"></i></p>
+                    <p class="floating-text">
+                        E-Book
+                    </p>
+                </a>
+            </div>
+            <div id="floating-button" style="bottom: 110px;">
+                <a href="/face-to-face-career-counselling-in-delhi?frm=floating_icon" title="Walk-in for Counselling in Delhi">
+                    <p class="floating-plus"><i class="fa fa-group"></i></p>
+                    <p class="floating-text">
+                        Face To Face
+                    </p>
+                </a>
+            </div>
+
+        </div>
+        
+    
+<script type="text/javascript">
+//<![CDATA[
+var Page_Validators =  new Array(document.getElementById("ctl00_RequiredFieldValidator11"), document.getElementById("ctl00_RegularExpressionValidator11"), document.getElementById("ctl00_RequiredFieldValidator6"), document.getElementById("ctl00_ctContentMiddle_rfvContactNo"), document.getElementById("ctl00_ctContentMiddle_RegtxtContactNo"));
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var ctl00_RequiredFieldValidator11 = document.all ? document.all["ctl00_RequiredFieldValidator11"] : document.getElementById("ctl00_RequiredFieldValidator11");
+ctl00_RequiredFieldValidator11.controltovalidate = "ctl00_mobid";
+ctl00_RequiredFieldValidator11.focusOnError = "t";
+ctl00_RequiredFieldValidator11.errormessage = "Enter Mobile Number";
+ctl00_RequiredFieldValidator11.display = "Dynamic";
+ctl00_RequiredFieldValidator11.validationGroup = "mobilevalid";
+ctl00_RequiredFieldValidator11.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_RequiredFieldValidator11.initialvalue = "";
+var ctl00_RegularExpressionValidator11 = document.all ? document.all["ctl00_RegularExpressionValidator11"] : document.getElementById("ctl00_RegularExpressionValidator11");
+ctl00_RegularExpressionValidator11.controltovalidate = "ctl00_mobid";
+ctl00_RegularExpressionValidator11.focusOnError = "t";
+ctl00_RegularExpressionValidator11.errormessage = "Enter Correct Mobile Number";
+ctl00_RegularExpressionValidator11.display = "Dynamic";
+ctl00_RegularExpressionValidator11.validationGroup = "mobilevalid";
+ctl00_RegularExpressionValidator11.evaluationfunction = "RegularExpressionValidatorEvaluateIsValid";
+ctl00_RegularExpressionValidator11.validationexpression = "[7-9]{1}[0-9]{9}$";
+var ctl00_RequiredFieldValidator6 = document.all ? document.all["ctl00_RequiredFieldValidator6"] : document.getElementById("ctl00_RequiredFieldValidator6");
+ctl00_RequiredFieldValidator6.controltovalidate = "ctl00_txtEducation";
+ctl00_RequiredFieldValidator6.focusOnError = "t";
+ctl00_RequiredFieldValidator6.errormessage = "Write your highest education level";
+ctl00_RequiredFieldValidator6.display = "Dynamic";
+ctl00_RequiredFieldValidator6.validationGroup = "mobilevalid";
+ctl00_RequiredFieldValidator6.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_RequiredFieldValidator6.initialvalue = "Highest Education Level";
+var ctl00_ctContentMiddle_rfvContactNo = document.all ? document.all["ctl00_ctContentMiddle_rfvContactNo"] : document.getElementById("ctl00_ctContentMiddle_rfvContactNo");
+ctl00_ctContentMiddle_rfvContactNo.controltovalidate = "ctl00_ctContentMiddle_txtContactNo";
+ctl00_ctContentMiddle_rfvContactNo.errormessage = "Please enter correct Mobile No.";
+ctl00_ctContentMiddle_rfvContactNo.display = "Dynamic";
+ctl00_ctContentMiddle_rfvContactNo.validationGroup = "update";
+ctl00_ctContentMiddle_rfvContactNo.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_ctContentMiddle_rfvContactNo.initialvalue = "";
+var ctl00_ctContentMiddle_RegtxtContactNo = document.all ? document.all["ctl00_ctContentMiddle_RegtxtContactNo"] : document.getElementById("ctl00_ctContentMiddle_RegtxtContactNo");
+ctl00_ctContentMiddle_RegtxtContactNo.controltovalidate = "ctl00_ctContentMiddle_txtContactNo";
+ctl00_ctContentMiddle_RegtxtContactNo.errormessage = "Please enter correct Mobile No.";
+ctl00_ctContentMiddle_RegtxtContactNo.display = "Dynamic";
+ctl00_ctContentMiddle_RegtxtContactNo.validationGroup = "update";
+ctl00_ctContentMiddle_RegtxtContactNo.evaluationfunction = "RegularExpressionValidatorEvaluateIsValid";
+ctl00_ctContentMiddle_RegtxtContactNo.validationexpression = "[0]{1}[7-9]{1}[0-9]{9}|[7-9]{1}[0-9]{9}";
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+callloginpopup('back','signup',window.location.href);
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        
+document.getElementById('ctl00_RequiredFieldValidator11').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_RequiredFieldValidator11'));
+}
+
+document.getElementById('ctl00_RegularExpressionValidator11').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_RegularExpressionValidator11'));
+}
+
+document.getElementById('ctl00_RequiredFieldValidator6').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_RequiredFieldValidator6'));
+}
+Sys.Application.add_init(function() {
+    $create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":null,"displayAfter":500,"dynamicLayout":true}, null, null, $get("ctl00_ctContentMiddle_UpdateProgress2"));
+});
+
+document.getElementById('ctl00_ctContentMiddle_rfvContactNo').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_ctContentMiddle_rfvContactNo'));
+}
+
+document.getElementById('ctl00_ctContentMiddle_RegtxtContactNo').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_ctContentMiddle_RegtxtContactNo'));
+}
+//]]>
+</script>
+</form>
+
+    <div id="divPopupSampleReport" class="sampleReportPopupOnAsmtPg"></div>
+
+
+
+    
+    <!-- Google Code for CareerGuide-Sinnup-ConversionTracking Conversion Page -->
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 879456059;
+        var google_conversion_language = "en";
+        var google_conversion_format = "3";
+        var google_conversion_color = "ffffff";
+        var google_conversion_label = "jGXbCJSwvW8Qu96towM";
+        var google_remarketing_only = false;
+        /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+        <div style="display: inline;">
+            <img height="1" width="1" style="border-style: none;" alt="" src="//www.googleadservices.com/pagead/conversion/879456059/?label=jGXbCJSwvW8Qu96towM&amp;guid=ON&amp;script=0" />
+        </div>
+    </noscript>
+
+    <script type="text/javascript">
+        function dropfbpixel_CompleteRegistration() {
+            try {
+                fbq('track', 'CompleteRegistration');
+            }
+            catch (err) {
+                setTimeout(function () { dropfbpixel_CompleteRegistration(); }, 3000);
+
+            }
+        }
+            $(document).ready(function () {
+                dropfbpixel_CompleteRegistration();
+            });
+    
+    </script>
+    
+
+    
+</body>
+</html>
+ESe¸Éü      [‰‹Î[‰‹Ñ?sÏS       ^    :https://www.careerguide.com/assessment/assessment-personal-details-psychometric.aspx?signup=1 necko:classified 1 strongly-framed 1 security-info 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 request-method GET response-head HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/8.5
+X-Powered-By: UrlRewriter.NET 1.7.0
+Access-Control-Allow-Origin: *
+Date: Fri, 31 Aug 2018 09:10:43 GMT
+Content-Length: 70035
+ original-response-headers Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/8.5
+X-Powered-By: UrlRewriter.NET 1.7.0
+Set-Cookie: authcookies=; expires=Mon, 20-Aug-2018 09:10:44 GMT; path=/
+Set-Cookie: LandCookie=Source=https://www.google.com/&LandPage=/ask/t/what-is-the-eligibility-criteria-to-be-a-human-resource-manager&PopUpGroup=4; expires=Thu, 20-Sep-2018 09:10:44 GMT; path=/
+Set-Cookie: CareerGuide=CF585B2BD10D24A6CDEF552BBF024C1DE05CC51F5ADF207591D8418EA4FA1446555E420B0AD0FE4FAFD25E7B58B9F75CB4D1E6946B520B5101C886D88654D32B6D2D7C66E09FA00C370E0FE92D04178503F23F80B93C7AB4BA55E6574D8B07366953282FECA136A6907D6F0CECFDE9138315E00DFDBBA5CCD7726D09C3BE40EE2F7768825E30460A3BDAA65FD01FDFAFC7090F04; expires=Fri, 31-Aug-2018 09:40:44 GMT; path=/; HttpOnly
+Access-Control-Allow-Origin: *
+Date: Fri, 31 Aug 2018 09:10:43 GMT
+Content-Length: 70035
+ uncompressed-len 0 predictor::resource-count 21 predictor::https://fonts.googleapis.com/css?family=Roboto+Condensed:300italic,400italic,700italic,400,300,700&subset=all 1,2,1535740878,12288 predictor::https://www.careerguide.com/assets/base/css/base-cg.css?v=7 1,2,1535740878,12288 predictor::https://www.careerguide.com/assets/base/css/style-cg.css?v=9 1,2,1535740878,12288 predictor::https://www.careerguide.com/assets/base/js/global-cg.js?v=21 1,2,1535740878,12288 predictor::https://www.careerguide.com/WebResource.axd?d=urZiQe1zxbpLHk-vrNb-vGNATivO-MZfihwAouL6KA69hD7rxwjqCiN-wnQPYCDL6oqPTNJkK-6ojUoIgszko_8iaFHgL10WowpvhR8YT5Ni_Hu2gAh9grCR8CZftlb40mV8X596_1PWD-AhWTtkC8ueAH1DA6s300g5VSz-50B6zRXt0&t=635389458460000000 1,2,1535740878,12288 predictor::https://www.careerguide.com/WebResource.axd?d=zgznpya2HQt1FBynULbayteGRLQAxoXIZmpGdwwiMaRAQkQ3NJZ2EPq8yfdXcfNYfl2EhDDxPD-4maNht__qLqzat-o1&t=636284280552661246 1,2,1535740878,12288 predictor::https://www.careerguide.com/ScriptResource.axd?d=AtmUlSLa133PbfAG8-quv3WEw2uZcucOxLQkcGgCUBqm77-Oi5Vq_0BDMc39ZWMO9xloUL5g0O1kO_TjL642WfgRDJ7RJw3-MDyntzzVza6Bt_Q1iMn9BGkLb84sDyQiSLRvaXU20RSosBRfiGoznp6g4Xg1&t=ffffffffeed36f95 1,2,1535740878,12288 predictor::https://www.careerguide.com/ScriptResource.axd?d=rTMDUK8-dYxmpy939YkGFT2kwnLxCJSgOSJflUfAp6ayLLbdSniyu4kFXCx8m8e_AEKhkwpS5I6GnAKQzh5Ac5zsD-z-7IN8_Y1FWwbvhSCTboZRDWncqMu6x3QK-lQBuiRsV99cqjHae9zsieuZCZDUchc1&t=ffffffffcce8aaf2 1,2,1535740878,12288 predictor::https://www.careerguide.com/ScriptResource.axd?d=rV-_wR_qkDjKFQQDx4OHTWMSKNdD2ebSa4lvxqomDg6klogDNQfl1g_SEU2WACLqS8y3PDx6ghlLQPCek6loxRmEOmfBsXvnZryGd0oG4n3po_T5Ezq9XciQVn94bex0arsEJLUPkBPMoBZrY_O4N64ZDvzc3_gniLIZAnVPfu9Pwia70&t=ffffffffcce8aaf2 1,2,1535740878,12288 net-response-time-onstart 279 net-response-time-onstop 346 predictor::https://www.googleadservices.com/pagead/conversion.js 1,2,1535740878,12288 predictor::https://www.googletagmanager.com/gtm.js?id=GTM-M22PRC 1,2,1535740878,12288 predictor::https://www.careerguide.com/images-mcg/SkillPersonalDetails.png 1,1,1535740809,8192 predictor::https://www.careerguide.com/Images-MCG/hr-skills-assessment.png 1,1,1535740809,8192 predictor::https://www.googleadservices.com/pagead/conversion_async.js 1,2,1535740878,12288 predictor::https://www.google-analytics.com/analytics.js 1,2,1535740878,12288 predictor::https://connect.facebook.net/en_US/fbevents.js 1,2,1535740878,12288 predictor::https://connect.facebook.net/signals/config/1682702682055094?v=2.8.25&r=stable 1,2,1535740878,12288 predictor::https://www.facebook.com/tr/?id=1682702682055094&ev=PageView&dl=https%3A%2F%2Fwww.careerguide.com%2Fassessment%2Fassessment-personal-details-psychometric.aspx%3Fsignup%3D1&rl=https%3A%2F%2Fwww.careerguide.com%2Fsession%2Fsignup%3Fcburl%3Dhttps%3A%2F%2Fwww.careerguide.com%2Fassessment%2Fassessment-personal-details-psychometric.aspx&if=false&ts=1535740810883&sw=1366&sh=768&v=2.8.25&r=stable&ec=0&o=28&it=1535740810798 1,1,1535740809,8192 predictor::https://www.facebook.com/tr/?id=1682702682055094&ev=CompleteRegistration&dl=https%3A%2F%2Fwww.careerguide.com%2Fassessment%2Fassessment-personal-details-psychometric.aspx%3Fsignup%3D1&rl=https%3A%2F%2Fwww.careerguide.com%2Fsession%2Fsignup%3Fcburl%3Dhttps%3A%2F%2Fwww.careerguide.com%2Fassessment%2Fassessment-personal-details-psychometric.aspx&if=false&ts=1535740813462&sw=1366&sh=768&v=2.8.25&r=stable&ec=2&o=28&it=1535740810798 1,1,1535740809,8192 predictor::https://www.facebook.com/tr/?id=1682702682055094&ev=PageView&dl=https%3A%2F%2Fwww.careerguide.com%2Fassessment%2Fassessment-personal-details-psychometric.aspx%3Fsignup%3D1&rl=https%3A%2F%2Fwww.careerguide.com%2Fsession%2Fsignup%3Fcburl%3Dhttps%3A%2F%2Fwww.careerguide.com%2Fassessment%2Fassessment-personal-details-psychometric.aspx&if=false&ts=1535740878901&sw=1366&sh=768&v=2.8.25&r=stable&ec=0&o=28&it=1535740878824 1,1,1535740878,4096 predictor::https://www.facebook.com/tr/?id=1682702682055094&ev=CompleteRegistration&dl=https%3A%2F%2Fwww.careerguide.com%2Fassessment%2Fassessment-personal-details-psychometric.aspx%3Fsignup%3D1&rl=https%3A%2F%2Fwww.careerguide.com%2Fsession%2Fsignup%3Fcburl%3Dhttps%3A%2F%2Fwww.careerguide.com%2Fassessment%2Fassessment-personal-details-psychometric.aspx&if=false&ts=1535740881657&sw=1366&sh=768&v=2.8.25&r=stable&ec=2&o=28&it=1535740878824 1,1,1535740878,4096  “

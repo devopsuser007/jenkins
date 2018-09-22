@@ -1,0 +1,22 @@
+logrotate state -- version 2
+"/home/mounica/.cache/upstart/bamfdaemon.log" 2018-9-20-11:50:55
+"/home/mounica/.cache/upstart/window-stack-bridge.log" 2018-9-21-20:43:18
+"/home/mounica/.cache/upstart/*.log" 2018-8-18-12:0:0
+"/home/mounica/.cache/upstart/indicator-keyboard.log" 2018-9-20-11:50:55
+"/home/mounica/.cache/upstart/update-notifier-crash-_var_crash__sbin_upstart.1000.crash.log" 2018-8-22-12:33:14
+"/home/mounica/.cache/upstart/ssh-agent.log" 2018-9-21-20:43:18
+"/home/mounica/.cache/upstart/dbus.log" 2018-9-21-20:43:18
+"/home/mounica/.cache/upstart/gnome-keyring-ssh.log" 2018-9-21-20:43:18
+"/home/mounica/.cache/upstart/hud.log" 2018-9-21-20:43:18
+"/home/mounica/.cache/upstart/gpg-agent.log" 2018-9-21-20:43:18
+"/home/mounica/.cache/upstart/indicator-printers.log" 2018-9-20-11:50:55
+"/home/mounica/.cache/upstart/upstart-dbus-system-bridge.log" 2018-9-20-13:29:39
+"/home/mounica/.cache/upstart/unity7.log" 2018-9-21-20:43:18
+"/home/mounica/.cache/upstart/unity-panel-service.log" 2018-9-21-20:43:18
+"/home/mounica/.cache/upstart/indicator-messages.log" 2018-8-15-2:29:11
+"/home/mounica/.cache/upstart/unity-panel-service-lockscreen.log" 2018-9-15-20:50:28
+"/home/mounica/.cache/upstart/upstart-event-bridge.log" 2018-9-21-20:43:18
+"/home/mounica/.cache/upstart/unity-settings-daemon.log" 2018-9-21-20:43:18
+"/home/mounica/.cache/upstart/indicator-sound.log" 2018-9-21-20:43:18
+"/home/mounica/.cache/upstart/gnome-keyring.log" 2018-9-21-20:43:18
+"/home/mounica/.cache/upstart/update-notifier-release.log" 2018-9-21-20:43:18
